@@ -1,0 +1,8 @@
+.env
+.DS_Store
+myenv
+logs
+output
+debug
+evaluation_results
+**/__pycache__

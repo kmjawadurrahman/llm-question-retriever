@@ -1,0 +1,14 @@
+anthropic
+python-dotenv
+pandas
+numpy
+tqdm
+openai
+langchain
+qdrant-client
+sentence-transformers
+scipy
+matplotlib
+seaborn
+pyyaml
+streamlit

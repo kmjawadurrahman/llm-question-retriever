@@ -1,0 +1,201 @@
+Question ID,Question Text,Review,Score,Score Binary,Score Combined
+Q1,Two teams play a series of games (best of 7) in which each team has 50% chance of winning,Basic probability not directly related to job functions,1,0,1
+Q2,Say you roll a die three times. What is the probability of getting two sixes in a row?,Elementary probability without data analytics context,1,0,1
+Q3,You roll three dice one after another. What is the probability of obtaining numbers in increasing order?,Basic probability without application context,1,0,1
+Q4,Assume deck of 100 cards with values 1-100 draw two cards what is probability one is double other,Basic probability without data analysis relevance,1,0,1
+Q5,"Imagine you are in a 3D space. From (0,0,0) to (3,3,3) how many paths possible",Combinatorics problem without analytics application,1,0,1
+Q6,Disease prevalence and test accuracy probability question,Tests understanding of conditional probability relevant to data analysis,3,1,5
+Q7,Two coins fair/unfair probability after observing outcomes,Demonstrates Bayesian thinking relevant to analytics,3,0,3
+Q8,Players A/B flipping biased coin turn-based probability,Basic probability without job relevance,1,0,1
+Q9,Three friends in Seattle reporting rain with lying probability,Applied probability with real-world context,2,1,4
+Q10,Circle with random chords intersection probability,Abstract geometry without job relevance,1,0,1
+Q11,Coin toss game until HH or TH sequence probability,Basic probability sequence without analytics context,1,0,1
+Q12,Rolling die twice with option to stop game theory,Basic probability without data analytics application,1,0,1
+Q13,Content team spam labeling with diligent/non-diligent raters,Applied probability relevant to data quality assessment,4,1,6
+Q14,Couple with two children gender probability,Elementary probability without job context,1,0,1
+Q15,Eight drawers letter placement conditional probability,Basic conditional probability without analytics context,1,0,1
+Q16,Tennis match deuce probability calculation,Basic probability without data analysis relevance,1,0,1
+Q17,Deck of 50 colored cards drawing probability,Simple probability without analytics application,1,0,1
+Q18,Ten dice sum divisibility probability,Basic probability without job relevance,1,0,1
+Q19,Game with die toss and payment strategy,Game theory without analytics context,1,0,1
+Q20,Generating fair odds from unfair coin,Probability theory without direct job application,1,1,3
+Q21,Painted cube faces probability question,Spatial probability without analytics relevance,1,0,1
+Q22,Stick broken into three parts triangle formation,Geometric probability without job context,1,0,1
+Q23,HHT vs HTT sequence probability,Basic sequence probability without analytics relevance,1,0,1
+Q24,Fair/unfair coin conditional probability comparison,Basic probability without data analysis context,1,0,1
+Q25,Ants on triangle movement probability,Abstract probability without job relevance,1,0,1
+Q26,Biased coin tosses even heads recurrence relation,Mathematical probability without analytics context,1,1,3
+Q27,Game series winning probability with bias,Basic probability without job application,1,0,1
+Q28,Three draws median probability question,Statistical sampling relevant to data analysis,3,1,5
+Q29,Phone number digits permutation probability,Combinatorial probability without analytics context,1,0,1
+Q30,Die rolls maximum value probability,Basic probability without job relevance,1,1,3
+Q31,Amoeba growth/death probability question,Probability modeling without analytics context,2,0,2
+Q32,Coin tosses conditional probability given total heads,Basic probability without job relevance,1,0,1
+Q33,Normal distribution draws exceeding threshold,Statistical analysis relevant to data science,4,1,6
+Q34,Triangle formation on unit circle probability,Geometric probability without job context,1,0,1
+Q35,Colored balls drawing until depletion probability,Basic probability without analytics relevance,1,0,1
+Q36,Explain Central Limit Theorem and its utility,Core statistical concept relevant to data analysis,4,1,6
+Q37,Explaining confidence intervals to non-technical audience,Statistical communication relevant to stakeholder engagement,4,1,6
+Q38,Common pitfalls in A/B testing,Directly relevant to data analysis and experimentation,4,1,6
+Q39,Covariance and correlation comparison,Essential statistical concepts for data analysis,4,1,6
+Q40,Coin flip hypothesis testing and p-value,Statistical testing relevant to data analysis,4,1,6
+Q41,Explaining hypothesis testing and p-values,Statistical communication for stakeholders,4,1,6
+Q42,Type I and Type II errors explanation,Core statistical concept for data analysis,4,1,6
+Q43,Statistical power explanation,Important concept for experimental design,4,1,6
+Q44,Z-test vs t-test usage,Statistical testing methodology relevant to analytics,4,1,6
+Q45,Multiple hypothesis testing considerations,Advanced statistical concept relevant to analysis,4,1,6
+Q46,Deriving confidence interval for coin flips,Statistical inference relevant to analytics,4,1,6
+Q47,Expected flips for consecutive heads,Basic probability without analytics context,1,0,1
+Q48,Expected rolls to see all die faces,Basic probability without job relevance,1,0,1
+Q49,Expected rolls for consecutive fives,Basic probability without analytics context,1,0,1
+Q50,Coin bias analysis from 1000 flips,Statistical inference relevant to data analysis,4,1,6
+Q51,You are drawing from a normally distributed random variable X ~ N(0," 1) once a day. What is the approximate exp"", Basic probability question with minimal direct application to job requirements",2,1,4
+Q52,Say you have two random variables X and Y," each with a standard deviation. What is the variance of aX + bY"", Tests fundamental statistical knowledge but not directly tied to analytics development",2,0,2
+Q53,Say we have X ~ Uniform(0," 1) and Y ~ Uniform(0,  1) and the two are independent. What is the expected val"", Basic probability concepts without application context",2,0,2
+Q54,Say you have an unfair coin which lands on heads 60% of the time. How many coin flips are needed,Tests statistical inference but not directly related to data center analytics,2,1,4
+Q55,Say you have n numbers 1...n," and you uniformly sample from this distribution with replacement n times"", Probability concept testing without practical application context",2,0,2
+Q56,There are 100 noodles in a bowl. At each step," you randomly select two noodle ends from the bowl"", Probability puzzle unrelated to job requirements",1,0,1
+Q57,What is the expected value of the max of two dice rolls?,Basic probability question without relevance to role,1,0,1
+Q58,Derive the mean and variance of the uniform distribution U(a," b)"", Statistical theory without application context",2,0,2
+Q59,How many cards would you expect to draw from a standard deck before seeing the first ace?,Basic probability concept unrelated to job requirements,1,0,1
+Q60,Say you draw n samples from a uniform distribution U(a," b). What are the MLE estimates of a and b?"", Tests statistical estimation relevant to data analysis",3,1,5
+Q61,Assume you are drawing from an infinite set of i.i.d random variables that are uniformly distributed,Probability concept without direct application,2,0,2
+Q62,There are two games involving dice that you can play. In the first game," you roll two dice"", Probability puzzle unrelated to role requirements",1,0,1
+Q63,What does it mean for an estimator to be unbiased? What about consistent?,Tests understanding of statistical concepts relevant to analytics,3,1,5
+Q64,What are MLE and MAP? What is the difference between the two?,Statistical estimation concepts relevant to data analysis,3,1,5
+Q65,Say you are given a random Bernoulli trial generator. How would you generate values from a standard,Tests practical implementation of statistical concepts,3,0,3
+Q66,Derive the expectation for a geometric random variable,Basic probability theory without application context,2,0,2
+Q67,Say we have a random variable X ~ D," where D is an arbitrary distribution. What is the distribution"", Theoretical probability without practical application",2,0,2
+Q68,Describe what a moment generating function (MGF) is. Derive the MGF for a normally distributed,Advanced statistical theory relevant to analytics,3,0,3
+Q69,Say you have N independent and identically distributed draws of an exponential random variable,Statistical estimation relevant to data analysis,3,0,3
+Q70,Assume that log X ~ N(0," 1). What is the expectation of X?"", Statistical computation without direct application",2,0,2
+Q71,Say you have two distinct subsets of a dataset for which you know their means and standard deviation,Directly relevant to data analysis and integration,4,1,6
+Q72,Say we have two random variables X and Y. What does it mean for X and Y to be independent?,Statistical concepts relevant to data analysis,3,0,3
+Q73,Say we have X ~ Uniform(-1," 1) and Y = X^2. What is the covariance of X and Y?"", Tests understanding of statistical relationships",3,0,3
+Q74,How do you uniformly sample points at random from a circle with radius R?,Statistical sampling without direct application,2,0,2
+Q75,Say you continually sample from some i.i.d. uniformly distributed (0," 1) random variables"", Probability concept without practical context",2,0,2
+Q76,Say you are building a binary classifier for an unbalanced dataset,Directly relevant to ML model development,4,1,6
+Q77,What are some differences you would expect in a model that minimizes squared error versus absolute,Essential ML model evaluation knowledge,4,1,6
+Q78,When performing K-means clustering," how do you choose k?"", Relevant to data analysis and ML implementation",4,1,6
+Q79,How can you make your models more robust to outliers?,Critical for data quality and model development,4,1,6
+Q80,Say that you are running a multiple linear regression and that you have reason to believe,Important for statistical modeling and analysis,4,1,6
+Q81,Describe the motivation behind random forests. What are two ways in which they improve,Directly relevant to ML implementation,4,1,6
+Q82,Given a large dataset of payment transactions," say we want to predict the likelihood"", Data quality and ML implementation question",4,1,6
+Q83,Say you are running a simple logistic regression to solve a problem but find the results,Model optimization relevant to role,4,1,6
+Q84,Say you were running a linear regression for a dataset but you accidentally duplicated,Tests understanding of statistical concepts,3,0,3
+Q85,Compare and contrast gradient boosting and random forests,Essential ML knowledge for role,4,1,6
+Q86,Say that DoorDash is launching in Singapore. For this new market," you want to predict"", Applied ML problem solving",3,0,3
+Q87,Say we are running a binary classification loan model," and rejected applicants must be"", ML implementation and stakeholder communication",4,1,6
+Q88,Say you are given a very large corpus of words. How would you identify synonyms?,NLP and ML application question,3,0,3
+Q89,What is the bias-variance trade-off? How is it expressed using an equation?,Fundamental ML concept crucial for role,4,1,6
+Q90,Define the cross-validation process.What is the motivation behind using it?,Essential ML model validation knowledge,4,1,6
+Q91,How would you build a lead scoring algorithm to predict whether a prospective company,Applied ML problem solving,3,0,3
+Q92,How would you approach creating a music recommendation algorithm?,ML system design question,3,0,3
+Q93,Define what it means for a function to be convex. What is an example of a machine learning,Mathematical foundations of ML,4,0,4
+Q94,Explain what information gain and entropy are in the context of a decision tree,Core ML concepts relevant to role,4,1,6
+Q95,What is L1 and L2 regularization? What are the differences between the two?,Essential ML model optimization knowledge,4,1,6
+Q96,Describe gradient descent and the motivations behind stochastic gradient descent,Fundamental ML optimization concept,4,1,6
+Q97,Assume we have a classifier that produces a score between 0 and 1 for the probability,ML model evaluation and metrics,4,0,4
+Q98,Say X is a univariate Gaussian random variable. What is the entropy of X?,Information theory relevant to ML,3,0,3
+Q99,How would you build a model to calculate a customer's propensity to buy a particular item?,Applied ML system design,3,0,3
+Q100,Compare and contrast Gaussian Naive Bayes (GNB) and logistic regression,ML algorithm knowledge essential for role,4,1,6
+Q101,What loss function is used in k-means clustering,Directly tests ML knowledge needed for analytics/data analysis role,4,1,6
+Q102,Describe the kernel trick in SVMs,Tests advanced ML concepts relevant for analytics development,4,0,4
+Q103,Say we have N observations for some variable which we model,Tests statistical analysis skills needed for data analysis,3,0,3
+Q104,Say we are using a Gaussian mixture model (GMM) for anomaly detection,Highly relevant for ML model development and data analysis,4,1,6
+Q105,Walk me through how you'd build a model to predict whether,Tests practical ML application and stakeholder needs analysis,4,0,4
+Q106,Suppose you are running a linear regression,Tests statistical modeling knowledge needed for analytics,3,0,3
+Q107,Describe the idea behind Principle Components Analysis,Tests advanced analytics techniques relevant to role,4,1,6
+Q108,Describe the model formulation behind logistic regression,Tests fundamental ML modeling required for role,4,0,4
+Q109,How would you approach creating a music recommendation algorithm,Tests practical ML system design but not specific to job context,3,0,3
+Q110,Derive the variance-covariance matrix,Tests statistical knowledge but overly theoretical for role,2,0,2
+Q111,Write a query to get the clickthrough rate per app,Tests SQL skills needed for data analysis,4,1,6
+Q112,Write a query to list the top three cities,Tests SQL aggregation skills needed for role,4,1,6
+Q113,Write a query to compare the viewership on laptops,Tests SQL analysis capabilities required for role,4,1,6
+Q114,Write a query to calculate the cumulative spend,Tests advanced SQL skills needed for analytics,4,1,6
+Q115,Write a query to obtain the names of the ten customers,Tests complex SQL querying needed for role,4,0,4
+Q116,Write a query to obtain a histogram of tweets,Tests SQL data aggregation skills required for role,4,0,4
+Q117,Write a query to obtain the number of people who purchased,Tests SQL analysis capabilities for complex scenarios,4,0,4
+Q118,Write a query to get the total number of companies,Tests SQL deduplication and analysis skills,4,0,4
+Q119,Write a query to obtain the list of customers whose first,Tests SQL temporal analysis skills needed for role,4,0,4
+Q120,Calculate the 7-day rolling average of tweets,Tests advanced SQL analytics capabilities required,4,1,6
+Q121,Write a query to obtain the third transaction,Tests SQL ranking and filtering skills,4,0,4
+Q122,Identify the top three highest-grossing items,Tests complex SQL analysis capabilities,4,1,6
+Q123,Write a query to obtain the number of users who made a purchase,Tests SQL aggregation and analysis skills,4,0,4
+Q124,What is a database view,Tests fundamental database knowledge needed for role,3,1,5
+Q125,Say you have a database system where most queries,Tests database optimization knowledge,3,1,5
+Q126,What is a primary key,Tests basic database knowledge required for role,3,1,5
+Q127,Describe some advantages and disadvantages of relational databases,Tests database architecture knowledge,4,1,6
+Q128,Say you want to set up a MapReduce job,Tests distributed computing knowledge needed for role,4,0,4
+Q129,Name one major similarity and difference between WHERE and HAVING,Tests SQL fundamentals required for role,3,1,5
+Q130,Describe what a foreign key is,Tests basic database knowledge needed for role,3,1,5
+Q131,Describe what a clustered index and a non-clustered index are,Tests database optimization knowledge,3,1,5
+Q132,Write a query to obtain all existing users,Tests complex SQL analysis capabilities,4,0,4
+Q133,Write a query to obtain active user retention,Tests advanced SQL analytics skills,4,0,4
+Q134,Write a query that ranks users according to their total session,Tests SQL analysis and ranking skills,4,0,4
+Q135,Write a query to obtain a breakdown of the time spent,Tests complex SQL analytics capabilities,4,0,4
+Q136,Write a query to obtain the user session,Tests advanced SQL temporal analysis,4,0,4
+Q137,Write a query to obtain the number and percentage,Tests SQL aggregation and calculation skills,4,0,4
+Q138,Write a query to obtain the sum of the odd-numbered measurements,Tests complex SQL analytics capabilities,4,1,6
+Q139,Write a query to obtain the percentage of users,Tests SQL analysis and calculation skills,4,0,4
+Q140,Find the top 10 products that are most frequently bought together,Tests advanced SQL analytics capabilities,4,0,4
+Q141,Write a query to obtain the number of reactivated users,Tests complex SQL temporal analysis,4,0,4
+Q142,Write a query to obtain the year-on-year growth rate,Tests advanced SQL analytics capabilities,4,0,4
+Q143,Write a query to obtain the account's rolling 7-day earnings,Tests complex SQL temporal analysis,4,0,4
+Q144,How would you use MapReduce to find the number of mutual friends,Tests distributed computing knowledge,4,0,4
+Q145,How would you design this and what trade-offs would you need,Tests system design and architecture skills,4,1,6
+Q146,Given two arrays write a function to get the intersection,Tests basic algorithm implementation needed,3,0,3
+Q147,Given an integer array return the maximum product,Tests algorithm implementation skills,3,0,3
+Q148,Given a list of coordinates write a function to find,Tests algorithm and data structure skills,3,0,3
+Q149,Say you have an n-by-n matrix of elements,Tests advanced algorithm implementation,3,0,3
+Q150,Given an integer array find the sum of the largest contiguous subarray,Tests algorithm implementation skills,3,0,3
+Q151,Given a binary tree write a function to determine whether the tree is a mirror image of itself,Basic algorithm question with minimal relevance to analytics/data processing,1,0,1
+Q152,Given an array of positive integers a peak element is greater than its neighbors,Tests basic algorithmic skills but not directly relevant to analytics role,1,0,1
+Q153,Given two lists X and Y return their correlation,Directly tests statistical analysis capabilities needed for analytics role,4,1,6
+Q154,Given a binary tree write a function to determine the diameter of the tree,Basic data structure question not specific to analytics role,1,0,1
+Q155,Given a target number generate a random sample of n integers that sum to that target,Tests statistical sampling and distribution knowledge relevant to analytics,3,0,3
+Q156,You have the entire social graph of Facebook users with nodes representing users,Tests graph analysis but not directly relevant to data center analytics,2,0,2
+Q157,Given two strings A and B write a function to return a list of all the start indices,Basic string manipulation without relevance to analytics role,1,0,1
+Q158,You are given an array of intervals where each interval is represented by a start time,Tests algorithmic thinking but not specific to analytics needs,1,0,1
+Q159,Given an array of strings return a list of lists where each list contains anagrams,Basic string processing without relevance to analytics role,1,0,1
+Q160,Say that there are n people. If person A is friends with person B,Graph analysis question with some relevance to data processing,2,0,2
+Q161,Given a linked list return the head of the same linked list but with k-th node,Basic data structure manipulation not relevant to analytics,1,0,1
+Q162,Estimate π using a Monte Carlo method,Tests statistical simulation knowledge relevant for analytics role,3,1,5
+Q163,Given a string with lowercase letters and left and right parentheses,String manipulation without relevance to analytics role,1,0,1
+Q164,Given a list of one or more distinct integers write a function to generate permutations,Basic algorithmic question not specific to analytics,1,0,1
+Q165,Given a list of several categories sample from the list according to weights,Tests probability and sampling relevant to analytics work,3,1,5
+Q166,Given two arrays with integers return the maximum length of a common subarray,Basic array manipulation not relevant to analytics role,1,0,1
+Q167,Given a list of positive integers return the maximum increasing subsequence sum,Algorithm question without direct relevance to analytics,1,0,1
+Q168,Given a positive integer n find the smallest number of perfect squares,Mathematical problem not relevant to analytics role,1,0,1
+Q169,Given an integer n and an integer k output combinations,Basic combinatorics without specific relevance to analytics,1,0,1
+Q170,Given a string with left and right parentheses determine longest well-formed substring,String processing not relevant to analytics role,1,0,1
+Q171,Given an m-by-n matrix with positive integers determine longest increasing path,Matrix traversal without analytics relevance,1,0,1
+Q172,Given a number n return the number of lists of consecutive integers that sum to n,Mathematical problem not relevant to analytics role,1,0,1
+Q173,Given a continuous stream of integers calculate the median at any time,Tests streaming analytics and statistical computation,4,1,6
+Q174,Given an input string and a regex write a function that checks matches,String pattern matching without analytics relevance,1,0,1
+Q175,A fire department wants to build a new fire station optimize location,Optimization problem relevant to analytics work,3,0,3
+Q176,Imagine the social graphs for both Facebook and Twitter How do they differ,Tests understanding of data analysis and metrics,3,1,5
+Q177,Why does surge pricing exist What metrics would you track,Analytics and metrics evaluation question,4,0,4
+Q178,What factors might make A/B testing metrics on the Airbnb platform difficult,Tests experimental design and analytics knowledge,4,1,6
+Q179,We currently pay Mozilla foundation 9 figures per year for Google search,Business analytics and ROI analysis question,4,0,4
+Q180,Assume you were working on LinkedIns Feed What metrics would you use,Metrics and analytics evaluation question,4,0,4
+Q181,Your team is trying to figure out whether a new rider app would increase rides,Tests A/B testing and experimental design knowledge,4,1,6
+Q182,If you were to plot the average revenue per seller on Amazon,Data analysis and distribution understanding question,4,0,4
+Q183,Besides posts Facebook is legally obligated to remove what others to take down,Content analysis without direct analytics relevance,2,0,2
+Q184,The Amazon books team finds that books with more complete author profiles sell more,Tests data analysis and causation understanding,4,0,4
+Q185,Lets say Snapchat saw an overall 5% decrease in daily active users,Data analysis and root cause investigation,4,1,6
+Q186,Say you ship a new search ranking algorithm on Pinterest,Metrics and impact analysis question,4,0,4
+Q187,Say a given category has less total watch time compared to others,Data analysis and segmentation question,4,0,4
+Q188,Say you have data on millions of Apple customers and their purchases,Customer segmentation and analytics question,4,1,6
+Q189,If 70% of Facebook users on iOS also use Instagram but only 50% on Android,Data analysis and hypothesis testing,4,0,4
+Q190,How would you assess the stickiness of the Capital One Quicksilver credit card,Product analytics and metrics evaluation,4,0,4
+Q191,Say you worked on YouTube Premium determining pricing for new countries,Market analysis and pricing analytics,4,0,4
+Q192,Should Twitter add Facebook-style emoji reactions to tweets,Feature analysis without direct analytics focus,2,0,2
+Q193,What metrics would you use to measure user engagement at Slack,Engagement metrics and analytics question,4,0,4
+Q194,Say you wanted to estimate physical store sales for retail chain,Business analytics and prediction modeling,4,1,6
+Q195,Assume that you are designing a system to recommend shows on Prime Video,Recommendation system design relevant to role,4,0,4
+Q196,Assume that you are modeling the yearly revenue of new property,Predictive modeling and feature engineering,4,0,4
+Q197,How would you build an algorithm to price products sold at Walmart,Pricing analytics and algorithm design,4,0,4
+Q198,Assume that you want to help a hotel chain analyze social media sentiment,Text analytics and sentiment analysis,4,1,6
+Q199,Suppose you are to build out Facebooks friend recommendation product,Recommendation system design question,4,0,4
+Q200,Assume you are working on a loan approval model for small businesses,Model evaluation and metrics analysis,4,0,4

@@ -1,0 +1,201 @@
+Question ID,Question Text,Review,Score,Score Binary,Score Combined
+Q1,Two teams play a series of games (best of 7),Demonstrates statistical probability but not directly relevant to competitive analysis,2,1,4
+Q2,Say you roll a die three times,Basic probability question without business context,1,0,1
+Q3,You roll three dice,Basic probability without connection to job requirements,1,0,1
+Q4,Assume you have a deck of 100 cards,Elementary probability without business relevance,1,0,1
+Q5,Imagine you are in a 3D space,Tests logical thinking but not relevant to role's needs,1,1,3
+Q6,One in a thousand people have a particular disease,Tests Bayesian probability relevant to data analysis,3,1,5
+Q7,Assume two coins,"one fair"", Tests statistical inference but lacks business context",2,1,4
+Q8,Players A and B are playing a game,Basic probability without business application,1,1,3
+Q9,Three friends in Seattle each told you it is rainy,Tests Bayesian reasoning applicable to data analysis,3,1,5
+Q10,You draw a circle and choose two chords,Geometric probability without business relevance,1,0,1
+Q11,You and your friend are playing a game,Simple probability without business context,1,0,1
+Q12,Say you are playing a game where you roll,Tests expected value but lacks business context,2,1,4
+Q13,Facebook has a content team,Relevant to real-world data analysis and classification problems,4,1,6
+Q14,A couple has two children,Basic conditional probability without business relevance,1,0,1
+Q15,A desk has eight drawers,Basic conditional probability without business context,1,0,1
+Q16,Two players are playing in a tennis match,Probability modeling but not business-focused,2,1,4
+Q17,Say you have a deck of 50 cards,Basic probability calculation without business relevance,1,0,1
+Q18,Suppose you have ten fair dice,Complex probability but not related to job requirements,1,1,3
+Q19,A and B play the following game,Expected value calculation without business context,1,1,3
+Q20,You are given an unfair coin,Tests statistical thinking applicable to real data problems,3,1,5
+Q21,Suppose you are given a white cube,Spatial probability without business relevance,1,0,1
+Q22,Assume you take a stick of length 1,Geometric probability without business context,1,0,1
+Q23,What is the probability that,"in a random sequence"", Markov chain concept but lacks business focus",2,1,4
+Q24,A fair coin is tossed twice,Tests conditional probability understanding,2,1,4
+Q25,Three ants are sitting at the corners,Complex probability without business relevance,1,0,1
+Q26,A biased coin,"with probability p"", Tests algorithmic thinking but lacks business context",2,1,4
+Q27,Alice and Bob are playing a game together,Probability modeling without business relevance,1,1,3
+Q28,Say you have three draws of a uniformly distributed,Tests statistical concepts relevant to analysis,3,1,5
+Q29,Say you have 150 friends,Combinatorial probability without business relevance,1,0,1
+Q30,A fair die is rolled n times,Basic probability distribution without business context,1,1,3
+Q31,Say you have a jar initially containing,Complex probability without business relevance,1,0,1
+Q32,A fair coin is tossed n times,Basic conditional probability without business context,1,0,1
+Q33,You have N i.i.d. draws of numbers,Tests statistical distribution knowledge relevant to role,4,1,6
+Q34,You pick three random points,Geometric probability without business relevance,1,0,1
+Q35,You have r red balls and w white balls,Basic probability without business context,1,0,1
+Q36,Explain the Central Limit Theorem,Directly tests statistical knowledge needed for role,4,1,6
+Q37,How would you explain a confidence interval,Tests statistical communication skills required,4,1,6
+Q38,What are some common pitfalls encountered in A/B testing,Highly relevant to business experimentation,4,1,6
+Q39,Explain both covariance and correlation,Tests statistical knowledge needed for analysis,4,1,6
+Q40,Say you flip a coin 10 times,Tests hypothesis testing knowledge required for role,4,1,6
+Q41,Describe hypothesis testing and p-values,Tests ability to communicate statistical concepts,4,1,6
+Q42,Describe what Type I and Type II errors are,Essential statistical testing knowledge for role,4,1,6
+Q43,Explain the statistical background behind power,Core statistical concept relevant to role,4,1,6
+Q44,What is a Z-test and when would you use it,Tests practical statistical knowledge needed,4,1,6
+Q45,Say you are testing hundreds of hypotheses,Addresses real-world statistical challenges,4,1,6
+Q46,How would you derive a confidence interval,Tests statistical inference knowledge needed,4,1,6
+Q47,What is the expected number of coin flips,Basic probability without business relevance,1,0,1
+Q48,What is the expected number of rolls,Basic probability without business context,1,0,1
+Q49,Say you're rolling a fair six-sided die,Simple probability without business application,1,0,1
+Q50,"A coin was flipped 1,000 times",Tests statistical inference and hypothesis testing,4,1,6
+Q51,"Expected number of days until N(0,1) > 2",Tests statistical knowledge but not directly relevant to competitive analysis,2,0,2
+Q52,Variance of linear combination,Basic statistics knowledge relevant for data analysis but too theoretical,2,1,4
+Q53,Expected value of minimum of uniforms,Tests probability theory but not directly applicable to role needs,2,0,2
+Q54,Detecting unfair coin,Related to statistical testing which is relevant for competitive analysis,3,1,5
+Q55,Distinct values in sampling,Relevant for sampling and analysis methodologies used in competitive intelligence,3,0,3
+Q56,Noodle loops probability,Pure probability question without business context,1,0,1
+Q57,Expected max of dice rolls,Basic probability without business relevance,1,0,1
+Q58,Uniform distribution parameters,Fundamental statistics relevant for modeling work,3,1,5
+Q59,Expected draws until ace,Basic probability without business context,1,0,1
+Q60,MLE estimates for uniform,Statistical estimation relevant for modeling and analysis,3,1,5
+Q61,Expected length of increasing sequence,Advanced probability without clear business application,2,0,2
+Q62,Dice game expected value,Probability calculation without business context,1,0,1
+Q63,Unbiased vs consistent estimators,Important statistical concepts for modeling work,4,1,6
+Q64,MLE vs MAP difference,Key statistical concepts for model development,4,1,6
+Q65,Generating normal from Bernoulli,Advanced statistical implementation relevant for modeling,3,1,5
+Q66,Geometric expectation,Basic probability theory with limited direct application,2,0,2
+Q67,CDF distribution property,Statistical theory relevant for modeling work,3,0,3
+Q68,MGF for normal distribution,Advanced statistics relevant for modeling work,3,1,5
+Q69,Exponential parameter estimation,Statistical estimation relevant for analysis work,3,1,5
+Q70,Log-normal expectation,Important for data analysis and modeling,3,0,3
+Q71,Blended statistics calculation,Directly relevant for competitive analysis across markets,4,1,6
+Q72,Independence vs correlation,Fundamental concepts for data analysis and modeling,4,1,6
+Q73,Covariance calculation,Statistical concept relevant for analysis work,3,0,3
+Q74,Random sampling from circle,Technical implementation without clear business relevance,2,0,2
+Q75,Expected samples until sum exceeds 1,Probability theory without direct application,2,0,2
+Q76,Handling unbalanced datasets,Critical for real-world data analysis and modeling,4,1,6
+Q77,Squared vs absolute error,Important for model development and evaluation,4,1,6
+Q78,Choosing k in k-means,Relevant for competitive analysis clustering,4,0,4
+Q79,Model robustness to outliers,Essential for real data analysis and modeling,4,1,6
+Q80,Correlated predictors in regression,Key concept for statistical modeling,4,1,6
+Q81,Random forests motivation,Relevant for competitive analysis modeling,4,1,6
+Q82,Handling missing values,Critical for real-world data analysis,4,0,4
+Q83,Improving logistic regression,Important for model development and optimization,4,1,6
+Q84,Duplicated data in regression,Technical concept with limited direct application,2,0,2
+Q85,Gradient boosting vs random forests,Relevant for modeling choices and implementation,4,1,6
+Q86,ETA prediction with limited data,Directly relevant to business analysis scenarios,4,0,4
+Q87,Binary classification explanations,Important for business application of models,4,1,6
+Q88,Identifying synonyms,Natural language processing without direct relevance,2,0,2
+Q89,Bias-variance tradeoff,Fundamental concept for model development,4,1,6
+Q90,Cross-validation process,Essential for model validation and testing,4,1,6
+Q91,Lead scoring algorithm,Relevant for business analysis and modeling,4,0,4
+Q92,Music recommendation algorithm,Recommendation systems without direct relevance,2,0,2
+Q93,Convex functions,Mathematical theory relevant for optimization,3,1,5
+Q94,Information gain and entropy,Important for decision tree modeling,3,0,3
+Q95,L1 vs L2 regularization,Critical for model development and optimization,4,1,6
+Q96,Gradient descent explanation,Essential concept for model optimization,4,1,6
+Q97,ROC curve transformation,Important for model evaluation,4,0,4
+Q98,Gaussian entropy,Technical concept with limited direct application,2,0,2
+Q99,Customer propensity model,Relevant for business modeling and analysis,4,0,4
+Q100,GNB vs logistic regression,Important for model selection and implementation,4,1,6
+Q101,What loss function is used in k-means clustering given k clusters and n sample points?,Tests fundamental ML knowledge but not directly related to competitive intelligence focus,2,0,2
+Q102,Describe the kernel trick in SVMs and give a simple example.,Basic ML concept but not aligned with competitive analysis needs,2,1,4
+Q103,Say we have N observations for some variable which we model as being drawn from a Gaussian distribut,Relevant to statistical modeling requirements but too basic,3,0,3
+Q104,Say we are using a Gaussian mixture model (GMM) for anomaly detection of fraudulent transactions,Demonstrates relevant modeling skills for business applications,4,1,6
+Q105,Walk me through how you'd build a model to predict whether a particular Robinhood user will churn?,Tests practical ML application and business strategy alignment,4,0,4
+Q106,Suppose you are running a linear regression and model the error terms as being normally distributed,Tests statistical fundamentals needed for role,3,1,5
+Q107,Describe the idea behind Principle Components Analysis (PCA) and describe its formulation,Relevant to dimensional reduction in competitive analysis,3,1,5
+Q108,Describe the model formulation behind logistic regression.,Basic ML knowledge but not specific to role needs,2,0,2
+Q109,How would you approach creating a music recommendation algorithm for Discover Weekly,Tests end-to-end ML thinking but not relevant to competitive analysis,2,0,2
+Q110,Derive the variance-covariance matrix of the least squares parameter estimates in matrix form.,Tests statistical knowledge but too theoretical for role needs,2,1,4
+Q111,Assume you have the below events table on app analytics. Write a query to get the clickthrough,Tests essential SQL skills needed for role,4,0,4
+Q112,Assume you are given the tables below containing information on trades and users. Write a query,Demonstrates SQL analysis capabilities relevant to role,4,1,6
+Q113,Assume that you are given the table below containing information on viewership by device type,Tests SQL skills for market analysis scenarios,4,0,4
+Q114,Assume you are given the table below for spending activity by product type. Write a query,Shows ability to analyze temporal business data,4,1,6
+Q115,Assume that you are given the table below containing information on various orders made by cust,Tests SQL skills for customer analysis,3,0,3
+Q116,Assume you are given the table below containing information on tweets. Write a query to obtain,Basic SQL query not specific to competitive analysis,2,0,2
+Q117,Assume you are given the table below containing information on user purchases. Write a query,Relevant to customer behavior analysis,3,1,5
+Q118,Assume you are given the table below that shows the job postings for all companies,Tests SQL skills for market analysis,4,0,4
+Q119,Assume you are given the table below on user transactions. Write a query to obtain the list,Basic SQL query without competitive focus,2,0,2
+Q120,Assume you are given the table below containing information on each user's tweets,Tests time-series analysis capabilities,3,1,5
+Q121,Assume you are given the table below on transactions made by users. Write a query to obtain,Basic SQL without strategic focus,2,0,2
+Q122,Assume you are given the table below containing information on customer spend on products,Tests analysis of market performance,4,1,6
+Q123,Assume you are given the below table on transactions from users. Bucketing users based,Shows ability to segment and analyze user data,3,0,3
+Q124,What is a database view? What are some advantages views have over tables?,Basic database concept not specific to role,2,0,2
+Q125,Say you have a database system where most of the queries made were UPDATEs/INSERTs/DELETEs,Tests database optimization knowledge,3,1,5
+Q126,What is a primary key? What characteristics does a good primary key have?,Too basic for senior role requirements,1,0,1
+Q127,Describe some advantages and disadvantages of relational databases vs. NoSQL databases.,Relevant to data infrastructure decisions,3,1,5
+Q128,Say you want to set up a MapReduce job to implement a shuffle operator,Tests distributed computing knowledge,3,1,5
+Q129,Name one major similarity and difference between a WHERE clause and a HAVING clause in SQL.,Too basic for senior role,1,0,1
+Q130,Describe what a foreign key is and how it relates to a primary key.,Too basic for position level,1,0,1
+Q131,Describe what a clustered index and a non-clustered index are.,Tests database optimization knowledge,3,1,5
+Q132,Assume you are given the two tables below containing information on the topics,Tests complex SQL analysis skills,4,1,6
+Q133,Assume you have the tables below containing information on user actions.,Demonstrates user analytics capabilities,4,0,4
+Q134,Assume you are given the tables below containing information on user session activity.,Shows ability to analyze user behavior patterns,4,0,4
+Q135,Assume you are given the tables below containing information on Snapchat users,Tests comprehensive data analysis skills,4,0,4
+Q136,Assume you are given the table below containing information on user sessions,Complex SQL analysis relevant to role,4,0,4
+Q137,Assume you are given the table below containing information on user reviews.,Tests market analysis capabilities,4,0,4
+Q138,Assume you are given the table below containing measurement values obtained from a sensor,Shows data processing abilities,3,0,3
+Q139,Assume you are given the two tables below containing information on user signups,Tests conversion analysis skills,4,0,4
+Q140,Assume you are given the following tables on customer transactions and products.,Shows market pattern analysis capabilities,4,1,6
+Q141,Assume you have the table given below containing information on user logins.,Tests user behavior analysis skills,4,0,4
+Q142,Assume you are given the table below containing information on user transactions,Shows business metrics analysis ability,4,1,6
+Q143,Assume you are given the table below containing information on user transactions,Tests financial analysis capabilities,4,0,4
+Q144,Say you had the entire Facebook social graph (users and their friendships).,Tests large-scale data processing knowledge,3,1,5
+Q145,Assume you are tasked with designing a large-scale system that tracks,Tests system design thinking,3,1,5
+Q146,Given two arrays write a function to get the intersection of the two.,Basic coding question not specific to role,2,0,2
+Q147,Given an integer array return the maximum product of any three numbers,Tests algorithmic thinking but too basic,2,0,2
+Q148,Given a list of coordinates write a function to find the k closest points,Shows algorithmic problem-solving ability,3,1,5
+Q149,Say you have an n-by-n matrix of elements that are sorted in ascending order,Tests algorithm optimization skills,3,0,3
+Q150,Given an integer array find the sum of the largest contiguous subarray,Basic algorithmic question not role-specific,2,0,2
+Q151,Given a binary tree write a function to determine whether the tree is a mirror image of itself,Tests algorithmic skills but not directly related to competitive analysis or business intelligence,2,0,2
+Q152,Given an array of positive integers a peak element is greater than its neighbors,Basic algorithmic problem that doesn't test core job competencies,2,0,2
+Q153,Given two lists X and Y return their correlation,Directly relevant to statistical analysis and modeling requirements,4,1,6
+Q154,Given a binary tree write a function to determine the diameter of the tree,Tests coding but not relevant to business intelligence needs,2,0,2
+Q155,Given a target number generate a random sample of n integers that sum to that target,Tests statistical sampling and programming skills relevant to role,3,1,5
+Q156,You have the entire social graph of Facebook users with nodes representing users,Tests graph analysis relevant to market intelligence,3,1,5
+Q157,Given two strings A and B write a function to return a list of all the start indices,Basic algorithmic question not aligned with core job needs,2,0,2
+Q158,You are given an array of intervals where each interval is represented by a start time,Tests optimization but not focused on business context,2,1,4
+Q159,Given an array of strings return a list of lists where each list contains the strings,Basic programming question without business context,2,0,2
+Q160,Say that there are n people. If person A is friends with person B,Tests network analysis relevant to market understanding,3,1,5
+Q161,Given a linked list return the head of the same linked list but with k-th node,Basic data structure question not aligned with job needs,1,0,1
+Q162,Estimate π using a Monte Carlo method,Tests statistical modeling and simulation skills relevant to role,4,1,6
+Q163,Given a string with lowercase letters and left and right parentheses,Basic programming question not related to core job functions,1,0,1
+Q164,Given a list of one or more distinct integers write a function to generate all permutations,Basic algorithmic question without business context,1,0,1
+Q165,Given a list of several categories sample from the list according to weights,Tests statistical sampling relevant to market analysis,4,1,6
+Q166,Given two arrays with integers return the maximum length of a common subarray,Basic programming without business relevance,1,0,1
+Q167,Given a list of positive integers return the maximum increasing subsequence sum,Tests optimization but lacks business context,2,0,2
+Q168,Given a positive integer n find the smallest number of perfect squares,Basic programming without relevance to job requirements,1,0,1
+Q169,Given an integer n and an integer k output a list of all combinations,Basic programming without business context,1,0,1
+Q170,Given a string with left and right parentheses write a function to determine,Basic programming not aligned with job needs,1,0,1
+Q171,Given an m-by-n matrix with positive integers determine the longest path,Algorithm question without business relevance,1,0,1
+Q172,Given a number n return the number of lists of consecutive positive integers,Basic programming without business context,1,0,1
+Q173,Given a continuous stream of integers write a class with functions,Tests real-time analysis relevant to market monitoring,3,1,5
+Q174,Given an input string and a regex write a function that checks whether the regex matches,Basic programming without business relevance,1,0,1
+Q175,A fire department wants to build a new fire station in a location,Tests optimization but not focused on business context,2,1,4
+Q176,Imagine the social graphs for both Facebook and Twitter,Tests competitive analysis and metrics definition skills,4,1,6
+Q177,Why does surge pricing exist,Directly tests understanding of business strategy and metrics,4,1,6
+Q178,What factors might make A/B testing metrics on the Airbnb platform difficult,Tests experimentation knowledge relevant to role,4,1,6
+Q179,We currently pay the Mozilla foundation 9 figures per year,Tests business strategy and competitive analysis skills,4,0,4
+Q180,Assume you were working on LinkedIn's Feed,Tests metric definition and product strategy skills,4,0,4
+Q181,Your team is trying to figure out whether a new rider app with extra UI features,Tests experimentation methodology,3,1,5
+Q182,If you were to plot the average revenue per seller on the Amazon marketplace,Tests business analysis and statistical thinking,4,1,6
+Q183,Besides posts Facebook is legally obligated to remove,Tests product strategy but less relevant to role,2,0,2
+Q184,The Amazon books team finds that books with more complete author profiles sell more,Tests causation analysis skills,4,1,6
+Q185,Let's say Snapchat saw an overall 5% decrease in daily active users,Tests analytical problem-solving and metrics,4,0,4
+Q186,Say you ship a new search ranking algorithm on Pinterest,Tests metric definition and analysis skills,4,0,4
+Q187,Say a given category such as sci-fi TV shows has less total watch time,Tests business analysis and metrics,4,0,4
+Q188,Say you have data on millions of Apple customers and their purchases,Tests customer segmentation and analysis skills,4,1,6
+Q189,If 70% of Facebook users on iOS also use Instagram,Tests data analysis and hypothesis testing skills,4,0,4
+Q190,How would you assess the stickiness of the Capital One Quicksilver credit card,Tests product analysis and metrics,4,0,4
+Q191,Say you worked on YouTube Premium which is an ad-free version of YouTube,Tests business strategy and pricing analysis,4,0,4
+Q192,Should Twitter add Facebook-style emoji reactions,Tests product strategy and competitive analysis,3,0,3
+Q193,What metrics would you use to measure user engagement at Slack,Tests metric definition and analysis skills,4,0,4
+Q194,Say you wanted to estimate the physical store sales for a retail chain,Tests business analysis and modeling skills,4,1,6
+Q195,Assume that you are designing a system whose purpose is to recommend shows,Tests recommendation systems and analysis,4,0,4
+Q196,Assume that you are modeling the yearly revenue of new property being listed,Tests predictive modeling and feature engineering,4,1,6
+Q197,How would you build an algorithm to price products sold physically at Walmart,Tests pricing strategy and modeling skills,4,1,6
+Q198,Assume that you want to help a major hotel chain analyze what people say,Tests text analysis and business insights,4,0,4
+Q199,Suppose you are to build out Facebook's friend recommendation product,Tests recommendation systems and graph analysis,4,0,4
+Q200,Assume you are working on a loan approval model for small businesses,Tests model evaluation and business metrics,4,1,6

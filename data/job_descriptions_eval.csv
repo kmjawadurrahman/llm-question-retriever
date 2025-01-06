@@ -1,0 +1,273 @@
+Organization,Role/Position,Job Description,Job Number
+Meta,Data Scientist,"Data Scientist Responsibilities
+Work with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approaches.
+Apply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that serve billions of people and hundreds of millions of businesses.
+Identify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trends.
+Define, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendations.
+Partner with Product, Engineering, and cross-functional teams to inform, influence, support, and execute product strategy and investment decisions.
+Minimum Qualifications
+Bachelor's degree (or foreign equivalent degree) in Mathematics, Statistics, or a related field and 2 years of experience in the job offered or related occupation. Experience must include 2 years in the following:
+1. Data querying language (SQL)
+2. Scripting language (Python)
+3. Statistical/mathematical software (R)
+4. A/B experimentation
+5. statistical methods for causal inference
+6. time series analysis and
+7. statistical methods for clustering.",1
+Meta,Data Analyst,"Product & Regulatory Operations (PRO) plays a critical role in product development and legal compliance at Meta. They provide data and insights to build and improve products, like Facebook, Instagram, and Reality Labs.
+
+
+As a horizontal analytics team, Product & Regulatory Operations Analytics enables teams across PRO to make data-informed decisions by serving as analytics thought-partners to solve operational business problems. We build foundational data products and employ a diverse toolkit of analytical approaches to guide decision making.
+
+
+In this role, you won’t simply present data, but tell data-driven stories and share actionable insights. You will advise operations and systems using clear insights and recommendations, develop data-driven investment strategies to optimize product outcomes, and collaborate with a diverse set of cross-functional partners to identify, quantify, and solve PRO’s biggest challenges.
+
+
+This work utilizes one of the largest data sets in the world and drives high-stakes outcomes that impact billions of people on and off the platform. By joining Meta, you will become part of a world-class analytics community dedicated to skill development and career growth in analytics and beyond.
+Data Analyst, Product & Regulatory Ops Responsibilities
+Identify metric trends and insights for business reviews to provide leadership visibility into operational health and performance against desired outcomes
+Translate business objectives into actionable analyses, clearly communicating technical concepts and operational implications to varied audiences
+Develop scalable analytics solutions that provide the essential insights needed to support agile decision making
+Apply quantitative skills and incorporate qualitative insights to inform and advise strategy for Product Delivery Operations
+Partner with Operations, Data Science, Data Engineering, Systems, and Engineering teams to identify and execute against opportunities that increase operational efficiency and effectiveness
+Drive forecasting, scenario planning, and predictive analytics to optimize our operational expenditures
+Minimum Qualifications
+B.A./B.S. degree with a quantitative focus in Economics, Computer Science, Information Systems, Math, Statistics, or a similar technical field
+3+ years of work experience in an analytics or consulting role involving strategy, problem solving, and/or technical systems
+Experience working in a fast-paced, rapidly-changing environment, while managing multiple priorities and stakeholders
+Experience communicating effectively to technical and non-technical audiences
+Experience in communication with management
+Experience using analytics to break down ambiguous, complex problems using data
+Experience with data querying languages (e.g. SQL) and experience with scripting languages (e.g. Python)
+Preferred Qualifications
+Experience developing data pipelines via SQL and Python-based ETL frameworks
+Advanced degree with a quantitative focus (Computer Science, Statistics, Finance, Information Systems, Applied Economics or similar technical field) or equivalent practical experience
+Experience working in an operations organization",2
+Google,"Data Scientist III, Product","Minimum qualifications:
+Bachelor's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.
+5 years of work experience with analysis applications (extracting insights, performing statistical analysis, or solving business problems), and coding (Python, R, SQL) (or 2 years of work experience with a Master's degree).
+
+Preferred qualifications:
+Master's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.
+5 years of work experience with analysis applications (extracting insights, performing statistical analysis, or solving business problems), and coding (Python, R, SQL).
+
+About the job
+Help serve Google's worldwide user base of more than a billion people. Data Scientists provide quantitative support, market understanding and a strategic perspective to our partners throughout the organization. As a data-loving member of the team, you serve as an analytics expert for your partners, using numbers to help them make better decisions. You will weave stories with meaningful insight from data. You'll make critical recommendations for your fellow Googlers in Engineering and Product Management. You relish tallying up the numbers one minute and communicating your findings to a team leader the next.
+
+Google is an engineering company at heart. We hire people with a broad set of technical skills who are ready to take on some of technology's greatest challenges and make an impact on users around the world. At Google, engineers not only revolutionize search, they routinely work on scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, social to local, Google engineers are changing the world one technological achievement after another.
+
+Responsibilities
+Perform analysis by utilizing relevant tools (e.g., SQL, R, Python). Using comprehensive technical knowledge, use custom data infrastructure or existing data models.
+Own the process of gathering, extracting, and compiling data across sources via relevant tools (e.g., SQL, R, Python). Format, re-structure, and validate data to ensure quality.
+Report Key Performance Indicators (KPIs) to support business reviews with cross-functional/organizational leadership team. Translate analysis results to business insights or product improvement opportunities.
+Provide analytical insights and recommendations to influence product feature development decisions, and with some guidance.
+Build and prototype analysis and business cases iteratively to provide insights at scale. Develop comprehensive knowledge of Google data structures and metrics.",3
+Google,Analytics Developer,"Minimum qualifications:
+Bachelor's degree in Computer Science, Engineering or equivalent practical experience.
+5 years of experience in application development.
+3 years of experience with data management, data governance, data architecture, data analysis, data profiling, data quality, and system integration.
+
+Preferred qualifications:
+Experience in full-stack enterprise application development.
+Experience in hardware quality and reliability domains.
+Experience in Machine learning and advanced analytics.
+Experience with programming in SQL, Machine Learning, ETL, server side application development, and client side UI scripting.
+
+About the job
+Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google's product portfolio possible. We're proud to be our engineers' engineers and love voiding warranties by taking things apart so we can rebuild them. We keep our networks up and running, ensuring our users have the best and fastest experience possible.
+
+Responsibilities
+Develop analytics applications to deliver insights to improve Google's data center quality.
+Lead the development of a custom analytics application, including the UI, Application Programming Interface (APIs), server side code, and web-based visualizations.
+Lead strategy and execution across data acquisition, data quality, Extract, Transform, Load (ETL), and data preparation.
+Design and implement advanced analytics and machine learning models.
+Engage stakeholders to gain an understanding of root business needs and to ensure these needs are met as efficiently and timely as possible.",4
+Amazon,Senior Data Scientist,"DESCRIPTION
+Do you want to join an innovative team of scientists who use machine learning and statistical techniques to help Amazon provide the best customer experience by preventing eCommerce fraud?
+Are you excited by the prospect of analyzing and modeling terabytes of data and creating state-of-the-art algorithms to solve real world problems?
+Do you like to own end-to-end business problems/metrics and directly impact the profitability of the company? Do you enjoy collaborating in a diverse team environment?
+If yes, then you may be a great fit to join the Amazon Buyer Risk Prevention (BRP) Machine Learning group. We are looking for a talented scientist who is passionate to build advanced algorithmic systems that help manage safety of millions of transactions every day.
+
+
+
+
+Key job responsibilities
+• Demonstrate proficiency in supervised algorithms (tree-based models, neural networks) and unsupervised algorithms (clustering).
+• Rapidly design, prototype, and test multiple hypotheses in a high-ambiguity environment, utilizing quantitative analysis and business judgment.
+• Report findings in a scientifically rigorous manner.
+• Collaborate with software engineers, product managers, and domain experts to identify and address challenges requiring innovative solutions for our products.
+• Acquire knowledge of Amazon's diverse data resources and determine when, how, and which resources to leverage or exclude.
+• Integrate successful experiments into large-scale, highly complex production services by collaborating with software engineering teams.
+• Maintain technical documentation and effectively communicate results to diverse audiences.
+• Evaluate trade-offs by considering complexity, long-term benefits, and the reusability of existing solution
+
+BASIC QUALIFICATIONS
+- - 7+ years of data scientist experience or similar role
+- - 7+ years of data querying languages (e.g. SQL), scripting languages (e.g. Python) or statistical/mathematical software (e.g. R, SAS, Matlab, etc.) experience
+- - Experience with statistical models e.g. multinomial logistic regression
+- - Bachelor's degree in a quantitative field such as statistics, mathematics, data science, business analytics, economics, finance, engineering, or computer science
+- - Experience with statistical models e.g. multinomial logistic regression
+- - Proven knowledge of deep learning and experience hosting and deploying ML solutions (e.g., for training, tuning, and inferences)
+
+PREFERRED QUALIFICATIONS
+- - Knowledge of AWS tech stack (e.g., AWS Redshift, S3, EC2, Glue)
+- - Master's degree in a quantitative field such as statistics, mathematics, data science, business analytics, economics, finance, engineering, or computer science
+- - Experience as a technical leader and mentor on a data science team",5
+Amazon,Data Analytics Engineer II,"DESCRIPTION
+AWS Sales, Marketing, and Global Services (SMGS) is responsible for driving revenue, adoption, and growth from the largest and fastest growing small- and mid-market accounts to enterprise-level customers including public sector.
+Amazon’s technology business has a history and tradition of leading the world in web-related technologies and services. Now, with Amazon Web Services (AWS) you have the chance to help individuals and businesses with their computing and applications in the Cloud. As a member of AWS Support, you will be at the forefront of Cloud technologies and part of the world’s premier cloud services company while enjoying the culture of a start-up. You will be surrounded by people who are smart, passionate about cloud services, and believe that world class support is critical to customer success.
+
+Key job responsibilities
+-Carrying out Quantitative Data Analysis and acting as the subject matter expert on Operational and business improvement opportunities; validating data to ensure accuracy in the output; identifying key data for projects across a variety of data stores and efficiently extracting and processing it; generating descriptive statistics and extracting insights.
+- Expertise in carrying out statistical tests, logistic Regression modelling & python
+-Design and execute advanced analytical projects in collaboration with Operations, Program Managers, Business Intelligence & Finance teams. Participate in strategic and tactical planning discussions.
+-Analyze and extract relevant information from large amounts of both structured and unstructured data to help automate and optimize key processes
+-Analyze and validate data to ensure high data quality and reliable insights. Partner with Business Intelligence & Data engineering teams to improve data assets, quality, metrics and insights.
+-Proactively identify opportunity areas for deep dive investigations and future program development. Define the business problem and solution approach autonomously with limited guidance
+-Enable effective decision making by retrieving and aggregating data from multiple sources and compiling it into a digestible and actionable format
+-Exposure to analytical modelling and developing quantitative analytical solutions
+
+A day in the life
+As an experienced Advanced Analytical Engineer, you will play a key role as an internal consultant developing analyses related to the AWS Support businesses. You will need to interface with a diverse set of stakeholders and will work closely with Data scientists, Business Intelligence teams, Program managers, Business teams, Data engineering, Financial analysts, Operations Managers, Data Scientists and Product teams to analyze massive data sets, identify areas to improve, define metrics to measure and monitor programs, and most importantly work with different stakeholders to drive improvements over time. To be successful, you should demonstrate the ability to balance analytical and technical skills while clearly driving communication and collaboration with key partners. You will also work closely with internal leadership teams to extract or mine information from our existing systems to create new analysis, and expose data from our group to wider teams in intuitive ways. As a member of the team, you will also have the opportunity to leverage your passion for data science to create high impact solutions.
+
+BASIC QUALIFICATIONS
+- 3+ years of analyzing and interpreting data with Redshift, Oracle, NoSQL etc. experience
+- Experience with data visualization using Tableau, Quicksight, or similar tools
+- Experience with data modeling, warehousing and building ETL pipelines
+- Experience in Statistical Analysis packages such as R, SAS and Matlab
+- Experience using SQL to pull data from a database or data warehouse and scripting experience (Python) to process data for modeling
+
+PREFERRED QUALIFICATIONS
+- Experience with AWS solutions such as EC2, DynamoDB, S3, and Redshift
+- Experience in data mining, ETL, etc. and using databases in a business environment with large-scale, complex datasets
+",6
+Uber,Scientist II,"About the Role
+
+We're looking for a Data Scientist to join our Brand Science team and provide strategic insights, measurement, and optimization for a large brand marketing budget. In the role, you'll be part of and collaborate with a cross-functional team consisting of marketing, research, media and creative. As a member of the brand science team, you will not only be able to perform complex analyses exploring our large and rich dataset, but also shape marketing and measurement strategy. You'll play a big role in finding opportunities to help the marketing function scale as we develop the global Uber brand.
+
+You will be the DS lead for APAC, responsible for measurement and optimization of all brand marketing in the region. Beyond designing measurement and experimentation plans for campaigns, you will analyze effectiveness data across campaigns, understand customer behavior to inform campaign tactics, and perform ad hoc analysis to address overarching questions.
+
+Problems we’re working on include:
+
+How long can we run a creative asset before it hits diminishing returns due to wear out?
+What is the long-term impact of brand marketing and can we quantify it?
+What is the most effective way to target users of strategic interest?
+What are the most signal-rich proxies to use for optimization?
+The ideal candidate combines deep experimentation knowledge with outstanding stakeholder management skills and strong business acumen to help align learning agendas with strategic priorities. You are skilled in translating a stakeholder’s questions into a data-based analysis or experimentation plan, clarifying the question we want to answer and identifying the right data to answer exactly that question.
+
+The Impact You'll Have
+
+Design measurement and optimization for a large brand marketing budget, using a toolset ranging from experimentation to survey-based methods and causal inference
+Work closely with our media, research and marketing teams to develop actionable customer insights and recommendations to guide high level marketing strategy and inform improvements through the course of the campaign lifecycle
+Leverage rich internal databases to mine patterns on winning marketing tactics and understand customer behavior to inform marketing briefs
+Collaborate closely with Applied Scientists to leverage causal inference models for advanced campaign measurement and optimization
+Tackle open-ended questions about marketing effectiveness, interaction effects, incrementality & related topics
+Regularly present insights and learnings to executive leadership
+The Experience You'll Bring
+
+3+ years of experience with SQL, Python or R, and data visualization
+Demonstrated understanding of and experience with experimental design
+Ability to translate data science findings into business and marketing strategy
+Excellent communication skills to understand stakeholder needs, set expectations around feasibility, translate business challenges into research questions, and present findings to non-technical audiences
+Intellectual curiosity and a demonstrated ability to provide thought partnership to executive stakeholders
+Preferred Qualifications
+
+Familiarity with causal inference and econometrics techniques to measure the incrementality of marketing campaigns
+Experience identifying and adapting to imperfect data.
+Understanding of capabilites offered by publishers including ad products, brand lift and measurement solutions
+3+ years of paid media experience (ie. Programmatic, Facebook, Paid Search, Youtube, Audio, etc)
+Someone who is willing to contribute new ideas and articulate them to a variety of business partners and not just execute on existing ones",7
+Uber,Sr. Scientist,"About the Role
+
+The Global Intelligence team works to understand the strategy and performance of Uber and other companies with similar products through a combination of external and internal data. Uber operates in a diverse array of markets and product categories filled with rapidly evolving competing options; assessing the success or failure of a product or strategy depends on understanding this context. Doing this, and doing it well, is an interesting and difficult problem. The team uses its expertise in data analysis, statistical modeling, economics, and business to build scalable data products.
+
+We are looking for experienced candidates with a passion for solving new and difficult problems with data. You will build out and own competitive models/metrics, provide key insights, conduct deep dive analysis to understand new opportunities and empower teams to make more informed business and strategy decisions with competitive intelligence.
+
+What You Will Do
+
+Use data to understand competitors’ performance and to identify improvement opportunities.
+Conduct competitive intelligence deep dives and present findings to senior management to inform business decisions.
+Build statistical, optimization, and machine learning models for applications to domains like pricing, targeting, and experimentation.
+Collaborate with cross-functional teams across disciplines such as product, engineering, and operations to drive competitor intelligence development end-to-end from ideation to productionization.
+---- Basic Qualifications ----
+
+B.S or M.S. in Math, Economics, Bioinformatics, Statistics, Engineering, Computer Science, or other quantitative field
+3+ years of industry experience as an Applied or Data Scientist or equivalent
+Experience with exploratory data analysis, statistical analysis and testing, and model development.
+Ability to use Python, SQL, R or similar technologies to work efficiently with large data sets
+Coding and SQL proficiency and ability to develop statistical analysis and algorithm prototyping in Python
+Strong communication skills across technical, non-technical, and executive audiences
+---- Preferred Qualifications ----
+
+5+ years of industry experience in a similar role
+Experience in competitive intelligence.
+Experience in algorithm development and prototyping.
+To be highly detail-oriented.
+Excellent judgment, critical-thinking, and decision-making skills.
+Ability to translate data science findings into business strategy
+Self-motivated with the ability to work independently.
+Ability to work closely with cross-functional stakeholders to execute decisions.
+Strong verbal and written communication, and presentation skills
+Ambition and enthusiasm to seek opportunities to build value.",8
+Twitter,Full Stack Data Scientist,"Your Role:
+As a data scientist in the core product engineering team, you will have the unique opportunity to influence and elevate our product development process with your insights and innovations.
+
+Develop key metrics for a profound understanding of our product features, assessing their impact on platform engagement and user growth to guide product strategy.
+
+Build and maintain essential datasets, dashboards, and reporting services, serving as the south of truth for our performance indicators.
+
+Analyze data and build analytical tools to gain insights into user behavior, thereby enhancing user experiences, uncovering growth areas, and devising new features.
+
+Provide data and analysis support for product A/B tests, playing a pivotal role in data-driven decision-making for product changes.
+
+Collaborate with engineers and product managers, offering data and analytical support to enhance product development.
+
+
+Who You Are:
+We're looking for exceptional scientists/engineers who are passionate about our mission and have a strong desire to make a meaningful impact. The ideal candidate will have:
+
+Master, Post-graduate or PhD in statistics, mathematics, computer science, machine learning, information retrieval, engineering, operations research, or other quantitative discipline; or equivalent work experience.
+
+3+ years of industry experience working with large scale data pipelines, end-to-end data science solutions, and customer behavior analytics (we are hiring all levels DS II or above).
+
+Expertise solving complex and highly impactful business problems through quantitative approaches (statistical / machine learning models) with at least one programming language (Python, Scala, etc), and data manipulation tools including SQL and Spark.
+
+Ability to create/improve analytics tools or reproducible analysis libraries.
+
+
+At X, our small but fast-paced team values innovation, creativity, and a strong commitment to our mission. As a full stack data scientist, you'll have the opportunity to make a significant impact on the future of X and our aspiration to build the Everything App.",9
+Twitter,Machine Learning Engineer,"Your Role:
+
+As a Machine Learning Engineer, you will be instrumental in crafting the most engaging experiences on X. Inspired by the success of Tesla's FSD v12, where an end-to-end AI system processes raw sensor input to make direct decisions, we are building end-to-end AI based recommendation algorithms. These algorithms aim to discover the most compelling content on X — including posts, promoted content, creators, and videos — based directly on users' activity on the platform. As a key driver of this effort, you will test state-of-the-art methodologies to significantly enhance users' experiences on the platform.
+
+Your responsibilities will include:
+
+Designing and architecting recommendation algorithms across various product surfaces in X (Timelines, Ads, Video, Search, Notifications)
+
+Collaborating with cross-functional teams to integrate machine learning models into our platform
+
+Iterating and improving the algorithm by gathering user feedback in real time through experimentation
+
+Ensuring scalability and efficiency of machine learning systems
+
+Mentoring junior engineers and contributing to the team's growth
+
+Staying updated on Machine Learning and Deep Learning industry trends
+
+Who You Are:
+
+We're looking for exceptional engineers who are passionate about our mission and have a strong desire to make a meaningful impact. The ideal candidate will have:
+
+Master, Post-graduate or PhD in computer science, machine learning, information retrieval, recommendation systems, natural language processing, statistics, math, engineering, operations research, or other quantitative discipline; or equivalent work experience
+
+2+ years of industry experience working with recommender systems and/or deep learning applications (note - we are open to hiring for this role at all levels)
+
+Good theoretical grounding in core machine learning concepts and techniques
+
+Ability to perform comprehensive literature reviews and provide critical feedback on state-of-the-art solutions and how they may fit to different operating constraints
+
+Experience with a number of ML techniques and frameworks, e.g. data discretization, normalization, sampling, linear regression, decision trees, SVMs, deep neural networks, bandits, reinforcement learning, etc.
+
+Familiarity with one or more DL software frameworks such as Tensorflow, PyTorch.
+
+At X, our small but fast-paced team values innovation, creativity, and a strong commitment to our mission. As a Machine Learning Engineer, you'll have the opportunity to make a significant impact on the future of X and our aspiration to build the Everything App.",10

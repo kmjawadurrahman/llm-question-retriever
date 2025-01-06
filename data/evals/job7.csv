@@ -1,0 +1,201 @@
+Question ID,Question Text,Review,Score,Score Binary,Score Combined
+Q1,Two teams play a series of games (best of 7) probability...,Basic probability question unrelated to marketing analysis or experimentation,1,0,1
+Q2,Say you roll a die three times...,"Irrelevant basic probability question, not aligned with job requirements",1,0,1
+Q3,You roll three dice probability question...,Basic probability with no connection to role requirements,1,0,1
+Q4,Assume you have a deck of 100 cards...,Elementary probability question unrelated to marketing analysis,1,0,1
+Q5,Imagine you are in a 3D space...,Combinatorics problem unrelated to marketing or experimentation,1,0,1
+Q6,One in a thousand people have a disease...,Tests Bayes theorem but not marketing related,2,1,4
+Q7,Assume two coins one fair one unfair...,Basic probability unrelated to marketing analysis,1,0,1
+Q8,Players A and B playing game with biased coin...,Probability question not relevant to role,1,0,1
+Q9,Three friends in Seattle each told you it is rainy...,Conditional probability unrelated to job requirements,1,1,3
+Q10,You draw a circle and choose two chords...,Geometric probability unrelated to role requirements,1,0,1
+Q11,You and friend playing game with coin sequences...,Basic probability unrelated to marketing analysis,1,0,1
+Q12,Game with 6-sided die expected value...,Basic probability without marketing context,1,0,1
+Q13,Facebook content team labels spam question...,Tests Bayes with content relevance but not marketing focused,2,1,4
+Q14,Couple has two children probability...,Basic probability unrelated to role requirements,1,0,1
+Q15,Desk with eight drawers probability...,Basic conditional probability unrelated to role,1,0,1
+Q16,Tennis match probability question...,Basic probability without marketing context,1,0,1
+Q17,Deck of 50 cards color and number probability...,Elementary probability unrelated to role,1,0,1
+Q18,Ten fair dice sum probability...,Complex probability but not relevant to role,1,0,1
+Q19,Game with die toss and payment...,Expected value calculation unrelated to role,1,0,1
+Q20,Unfair coin generating fair odds...,Probability theory unrelated to marketing analysis,1,1,3
+Q21,White cube painted green probability...,Geometric probability unrelated to role,1,0,1
+Q22,Stick broken into three parts triangle...,Geometric probability not relevant to role,1,0,1
+Q23,Random sequence HHT vs HTT...,Basic probability unrelated to marketing analysis,1,0,1
+Q24,Fair coin tossed twice probability...,Basic probability without marketing context,1,1,3
+Q25,Three ants on triangle corners...,Complex probability unrelated to role requirements,1,0,1
+Q26,Biased coin even heads recurrence...,Advanced probability unrelated to marketing,1,0,1
+Q27,Game with Alice and Bob winning probability...,Basic probability without marketing context,1,0,1
+Q28,Three draws median probability...,Statistical probability unrelated to role,1,1,3
+Q29,150 friends phone numbers probability...,Applied probability unrelated to role,1,0,1
+Q30,Fair die rolled n times largest number...,Probability theory without marketing context,1,0,1
+Q31,Jar with amoeba probability question...,Complex probability unrelated to role,1,0,1
+Q32,Fair coin n tosses k heads probability...,Basic probability unrelated to marketing,1,0,1
+Q33,Normal distribution draws probability...,Statistical probability partially relevant to analysis,2,1,4
+Q34,Three points on circle triangle probability...,Geometric probability unrelated to role,1,0,1
+Q35,Red and white balls in bag probability...,Basic probability unrelated to role requirements,1,0,1
+Q36,Explain Central Limit Theorem...,Core statistical concept relevant to experimentation,4,1,6
+Q37,Explain confidence interval...,Key concept for measurement and stakeholder communication,4,1,6
+Q38,Common pitfalls in A/B testing...,Directly relevant to experimental design requirements,4,1,6
+Q39,Explain covariance and correlation...,Statistical concepts relevant to analysis work,3,1,5
+Q40,Coin flip hypothesis testing...,Demonstrates understanding of experimental testing,3,1,5
+Q41,Describe hypothesis testing...,Core concept for experimentation and measurement,4,1,6
+Q42,Describe Type I and Type II errors...,Essential for experimental design and analysis,4,1,6
+Q43,Explain statistical power...,Critical for experimental design and measurement,4,1,6
+Q44,Z-test vs t-test usage...,Important for statistical analysis and testing,3,1,5
+Q45,Testing hundreds of hypotheses...,Relevant to large-scale marketing analysis,4,1,6
+Q46,Confidence interval for coin flips...,Statistical concept but not marketing focused,2,0,2
+Q47,Expected flips for consecutive heads...,Basic probability unrelated to role,1,0,1
+Q48,Expected rolls to see all die sides...,Basic probability unrelated to role,1,0,1
+Q49,Expected rolls for consecutive fives...,Basic probability unrelated to role,1,0,1
+Q50,1000 coin flips bias question...,Basic hypothesis testing without marketing context,2,1,4
+Q51,"Expected days until N(0,1) > 2",Basic probability concept but not directly relevant to marketing analytics,1,0,1
+Q52,Variance of aX + bY with standard deviations,Relevant for analyzing campaign metrics but too theoretical,2,1,4
+Q53,"Expected value of min(X,Y) for uniform distributions",Statistical concept but not aligned with marketing needs,1,0,1
+Q54,Detecting unfair coin flips,"Related to experimental design and measurement, relevant for A/B testing",3,1,5
+Q55,Expected distinct values in sampling,Applicable to customer sampling and targeting analysis,3,0,3
+Q56,Expected loops from random noodle connections,Unrelated to marketing analytics or measurement,1,0,1
+Q57,Expected max of two dice rolls,Too basic and unrelated to job requirements,1,0,1
+Q58,Mean and variance of uniform distribution,Basic statistics relevant but not specific to role,2,1,4
+Q59,Expected draws before first ace,Unrelated to marketing analytics,1,0,1
+Q60,MLE estimates for uniform distribution,Statistical concept relevant for marketing measurement,3,1,5
+Q61,Expected length of increasing sequence,Not relevant to marketing analysis,1,0,1
+Q62,Comparing dice game expected values,Basic probability without marketing context,1,0,1
+Q63,Unbiased vs consistent estimators,Important for marketing measurement and analysis,4,1,6
+Q64,MLE vs MAP explanation,Relevant for statistical modeling in marketing,3,1,5
+Q65,Generating normal distribution,Technical knowledge relevant for data analysis,3,0,3
+Q66,Geometric distribution expectation,Basic probability without marketing context,1,0,1
+Q67,CDF distribution question,Statistical concept relevant but too theoretical,2,1,4
+Q68,MGF for normal distribution,Too theoretical for marketing analytics role,1,0,1
+Q69,Exponential distribution estimator,Relevant for customer behavior analysis,3,0,3
+Q70,Expectation of lognormal,Statistical concept with potential marketing applications,2,0,2
+Q71,Blended statistics calculation,Highly relevant for campaign analysis across segments,4,1,6
+Q72,Independence vs correlation,Important for marketing measurement analysis,4,1,6
+Q73,Covariance calculation,Statistical concept with marketing applications,3,0,3
+Q74,Random sampling from circle,Not relevant to marketing analytics,1,0,1
+Q75,Expected samples until sum exceeds 1,Not relevant to marketing context,1,0,1
+Q76,Handling imbalanced datasets,Very relevant for marketing campaign analysis,4,1,6
+Q77,Squared vs absolute error,Important for marketing measurement models,4,1,6
+Q78,Choosing k in k-means,Relevant for customer segmentation in marketing,4,1,6
+Q79,Making models robust to outliers,Important for marketing data analysis,4,1,6
+Q80,Multiple regression with correlated predictors,Crucial for marketing effectiveness analysis,4,1,6
+Q81,Random forests motivation,Relevant for marketing prediction models,3,1,5
+Q82,Handling missing values,Very relevant for marketing data analysis,4,0,4
+Q83,Improving logistic regression,Applicable to marketing optimization models,4,1,6
+Q84,Effect of duplicated data points,Basic concept but relevant to data quality,3,0,3
+Q85,Gradient boosting vs random forests,Relevant for marketing prediction models,3,1,5
+Q86,ETA prediction with limited data,Relevant conceptually but wrong domain,2,0,2
+Q87,Binary classification reasons,Applicable to marketing decision explanation,3,0,3
+Q88,Identifying synonyms,Not relevant to marketing analytics,1,0,1
+Q89,Bias-variance trade-off,Fundamental concept for marketing models,4,1,6
+Q90,Cross-validation process,Essential for marketing model validation,4,1,6
+Q91,Lead scoring algorithm,Similar to marketing conversion prediction,3,0,3
+Q92,Music recommendation algorithm,Not relevant to marketing focus,1,0,1
+Q93,Convex function definition,Theoretical concept with limited application,2,0,2
+Q94,Information gain in decision trees,Relevant for marketing segmentation,3,1,5
+Q95,L1 vs L2 regularization,Important for marketing prediction models,4,1,6
+Q96,Gradient descent explanation,Fundamental for marketing optimization,4,1,6
+Q97,ROC curve transformation,Relevant for marketing model evaluation,3,0,3
+Q98,Gaussian entropy,Too theoretical for marketing context,2,0,2
+Q99,Customer propensity model,Highly relevant for marketing prediction,4,1,6
+Q100,GNB vs logistic regression,Relevant for marketing classification,3,1,5
+Q101,What loss function is used in k-means clustering,Not relevant to marketing analytics or brand measurement focus,1,1,3
+Q102,Describe the kernel trick in SVMs,Not aligned with marketing analytics or brand measurement requirements,1,0,1
+Q103,Say we have N observations for some variable which we model,Partially relevant for statistical analysis but too theoretical,2,1,4
+Q104,Say we are using a Gaussian mixture model (GMM) for anomaly detection,Has some relevance for customer behavior analysis but too technical,2,0,2
+Q105,Walk me through how you'd build a model to predict whether a particular Robinhood user will churn,Relevant to customer behavior analysis and business strategy,3,1,5
+Q106,Suppose you are running a linear regression,Somewhat relevant for marketing measurement but too theoretical,2,0,2
+Q107,Describe the idea behind Principle Components Analysis,Not aligned with core marketing analytics requirements,1,1,3
+Q108,Describe the model formulation behind logistic regression,Has some relevance for customer analysis but too theoretical,2,1,4
+Q109,How would you approach creating a music recommendation algorithm,Related to customer behavior but not specific to marketing,2,0,2
+Q110,Derive the variance-covariance matrix,Too theoretical and not aligned with role requirements,1,0,1
+Q111,Write a query to get the clickthrough rate per app,Directly relevant to marketing analytics and SQL requirements,4,1,6
+Q112,Write a query to list the top three cities,Relevant for customer analysis and SQL skills,3,0,3
+Q113,Write a query to compare the viewership on laptops versus mobile devices,Relevant for customer behavior analysis,3,1,5
+Q114,Write a query to calculate the cumulative spend,Directly relevant for marketing measurement and analysis,4,1,6
+Q115,Write a query to obtain the names of the ten customers,Relevant for customer segmentation analysis,3,0,3
+Q116,Write a query to obtain a histogram of tweets,Demonstrates SQL skills but less relevant to marketing,2,0,2
+Q117,Write a query to obtain the number of people who purchased,Highly relevant for customer behavior analysis,4,1,6
+Q118,Write a query to get the total number of companies,Less relevant to marketing analytics focus,2,0,2
+Q119,Write a query to obtain the list of customers whose first transaction,Relevant for customer behavior analysis,3,1,5
+Q120,Calculate the 7-day rolling average,Relevant for trend analysis in marketing,3,0,3
+Q121,Write a query to obtain the third transaction,Shows SQL skills but limited marketing relevance,2,1,4
+Q122,Identify the top three highest-grossing items,Highly relevant for marketing analysis,4,1,6
+Q123,Write a query to obtain the number of users who made a purchase,Relevant for customer behavior analysis,3,1,5
+Q124,What is a database view?,Basic SQL knowledge but not specific to role needs,2,1,4
+Q125,How would this affect your decision to create indices?,Technical database knowledge but not core to role,2,1,4
+Q126,What is a primary key?,Basic SQL knowledge but not specific to role needs,2,0,2
+Q127,Describe some advantages and disadvantages of relational databases,General database knowledge but not specific to role,2,0,2
+Q128,Say you want to set up a MapReduce job,Not directly relevant to marketing analytics focus,1,0,1
+Q129,Name one major similarity and difference between WHERE and HAVING,Basic SQL knowledge needed for role,3,1,5
+Q130,Describe what a foreign key is,Basic SQL knowledge but not specific to role needs,2,0,2
+Q131,Describe what a clustered index,Technical database knowledge but not core to role,2,0,2
+Q132,Write a query to obtain all existing users,Relevant for user analysis but not marketing specific,2,0,2
+Q133,Write a query to obtain active user retention,Highly relevant for customer analysis and retention,4,1,6
+Q134,Write a query that ranks users according to their total session durations,Relevant for user behavior analysis,3,1,5
+Q135,Write a query to obtain a breakdown of the time spent,Relevant for customer behavior analysis,3,1,5
+Q136,Write a query to obtain the user session,Shows SQL skills but less marketing relevant,2,0,2
+Q137,Write a query to obtain the number and percentage of businesses,Demonstrates analytics but not marketing specific,2,0,2
+Q138,Write a query to obtain the sum of the odd-numbered measurements,Not relevant to marketing analysis,1,0,1
+Q139,Write a query to obtain the percentage of users,Highly relevant for conversion analysis,4,1,6
+Q140,Find the top 10 products that are most frequently bought together,Relevant for customer behavior analysis,3,1,5
+Q141,Write a query to obtain the number of reactivated users,Highly relevant for user engagement analysis,4,1,6
+Q142,Write a query to obtain the year-on-year growth rate,Highly relevant for marketing performance analysis,4,1,6
+Q143,Write a query to obtain the account's rolling 7-day earnings,Relevant for trend analysis,3,1,5
+Q144,How would you use MapReduce to find the number of mutual friends,Not relevant to marketing analytics focus,1,0,1
+Q145,How would you design this,Not specific to marketing analytics requirements,1,0,1
+Q146,Given two arrays write a function to get the intersection,Not relevant to marketing analytics focus,1,0,1
+Q147,Given an integer array return the maximum product,Not relevant to marketing analytics focus,1,0,1
+Q148,Given a list of coordinates write a function,Not relevant to marketing analytics focus,1,0,1
+Q149,Say you have an n-by-n matrix of elements,Not relevant to marketing analytics focus,1,0,1
+Q150,Given an integer array find the sum,Not relevant to marketing analytics focus,1,0,1
+Q151,Given a binary tree write a function to determine whether the tree is a mirror image of itself...,Not relevant to marketing analytics or experimental design role,1,0,1
+Q152,Given an array of positive integers a peak element is greater than its neighbors...,Not related to core job requirements or marketing analysis,1,0,1
+Q153,Given two lists X and Y return their correlation,Relevant for analyzing marketing relationships but too basic for required level,2,1,4
+Q154,Given a binary tree write a function to determine the diameter of the tree...,Unrelated to marketing analytics or required skills,1,0,1
+Q155,Given a target number generate a random sample of n integers that sum to that target...,Related to sampling but not directly applicable to marketing context,2,0,2
+Q156,You have the entire social graph of Facebook users with nodes representing users...,Tests graph analysis but not directly related to marketing measurement,2,0,2
+Q157,Given two strings A and B write a function to return a list of all the start indices...,Not relevant to marketing analytics role,1,0,1
+Q158,You are given an array of intervals where each interval is represented by a start time...,Could be relevant for campaign timing but too abstract,2,0,2
+Q159,Given an array of strings return a list of lists where each list contains the strings...,Not relevant to marketing or experimental design,1,0,1
+Q160,Say that there are n people If person A is friends with person B...,Tests network analysis but not focused on marketing applications,2,0,2
+Q161,Given a linked list return the head of the same linked list but with k-th node...,Not relevant to marketing analytics role,1,0,1
+Q162,Estimate π using a Monte Carlo method,Tests statistical simulation but not marketing focused,2,1,4
+Q163,Given a string with lowercase letters and left and right parentheses...,Not relevant to marketing analytics role,1,0,1
+Q164,Given a list of one or more distinct integers write a function to generate all permutations...,Not relevant to role requirements,1,0,1
+Q165,Given a list of several categories sample from the list according to a particular relative weighting...,Relevant for marketing sampling and weighting,3,1,5
+Q166,Given two arrays with integers return the maximum length of a common subarray...,Not relevant to marketing analytics role,1,0,1
+Q167,Given a list of positive integers return the maximum increasing subsequence sum...,Not relevant to marketing analytics requirements,1,0,1
+Q168,Given a positive integer n find the smallest number of perfect squares that sum up to n...,Not relevant to role requirements,1,0,1
+Q169,Given an integer n and an integer k output a list of all of the combinations...,Not directly relevant to marketing analytics,1,0,1
+Q170,Given a string with left and right parentheses write a function to determine...,Not relevant to marketing role requirements,1,0,1
+Q171,Given an m-by-n matrix with positive integers determine the length of the longest path...,Not relevant to marketing analytics role,1,0,1
+Q172,Given a number n return the number of lists of consecutive positive integers...,Not relevant to marketing analytics requirements,1,0,1
+Q173,Given a continuous stream of integers write a class with functions to add new integers...,Could be relevant for real-time analytics but too abstract,2,0,2
+Q174,Given an input string and a regex write a function that checks whether the regex matches...,Not relevant to marketing analytics role,1,0,1
+Q175,A fire department wants to build a new fire station in a location...,Tests optimization but not marketing focused,2,0,2
+Q176,Imagine the social graphs for both Facebook and Twitter How do they differ...,Relevant for understanding user behavior and metrics,3,1,5
+Q177,Why does surge pricing exist What metrics would you track...,Directly relevant to pricing optimization and metrics,4,1,6
+Q178,What factors might make A/B testing metrics on the Airbnb platform difficult?,Highly relevant to experimental design requirements,4,1,6
+Q179,We currently pay the Mozilla foundation 9 figures per year...,Tests business strategy and ROI analysis,3,1,5
+Q180,Assume you were working on LinkedIn's Feed What metrics would you use...,Relevant to engagement metrics and analysis,3,1,5
+Q181,Your team is trying to figure out whether a new rider app with extra UI features...,Directly relevant to A/B testing methodology,4,1,6
+Q182,If you were to plot the average revenue per seller on the Amazon marketplace...,Tests statistical distribution understanding,3,1,5
+Q183,Besides posts Facebook is legally obligated to remove what other types...,Not directly relevant to marketing analytics,2,0,2
+Q184,The Amazon books team finds that books with more complete author profiles sell more...,Tests causation analysis in business context,4,1,6
+Q185,Let's say Snapchat saw an overall 5% decrease in daily active users...,Tests analytical problem-solving for metrics,3,1,5
+Q186,Say you ship a new search ranking algorithm on Pinterest...,Relevant to measuring impact of changes,3,1,5
+Q187,Say a given category such as sci-fi TV shows has less total watch time...,Tests analytical approach to demand analysis,3,1,5
+Q188,Say you have data on millions of Apple customers and their purchases...,Directly relevant to customer segmentation analysis,4,1,6
+Q189,If 70% of Facebook users on iOS also use Instagram but only 50% of Facebook users...,Tests analytical problem-solving for user behavior,3,1,5
+Q190,How would you assess the stickiness of the Capital One Quicksilver credit card?,Relevant to customer retention analysis,3,1,5
+Q191,Say you worked on YouTube Premium which is an ad-free version of YouTube...,Tests pricing strategy and analysis,3,1,5
+Q192,Should Twitter add Facebook-style emoji reactions to tweets?,Tests product analysis but not directly marketing focused,2,0,2
+Q193,What metrics would you use to measure user engagement at Slack?,Relevant to engagement metrics analysis,3,1,5
+Q194,Say you wanted to estimate the physical store sales for a publicly traded retail chain...,Tests analytical approach to sales prediction,3,1,5
+Q195,Assume that you are designing a system whose purpose is to recommend what shows...,Related to recommendation systems but not marketing focused,2,0,2
+Q196,Assume that you are modeling the yearly revenue of new property being listed...,Tests revenue modeling and analysis,3,1,5
+Q197,How would you build an algorithm to price products sold physically at Walmart stores?,Relevant to pricing optimization,3,1,5
+Q198,Assume that you want to help a major hotel chain analyze what people say...,Tests sentiment analysis for marketing insights,4,1,6
+Q199,Suppose you are to build out Facebook's friend recommendation product...,Not directly relevant to marketing analytics,2,0,2
+Q200,Assume you are working on a loan approval model for small businesses...,Tests model evaluation but not marketing focused,2,0,2

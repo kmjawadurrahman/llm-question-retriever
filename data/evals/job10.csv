@@ -1,0 +1,201 @@
+Question ID,Question Text,Review,Score,Score Binary,Score Combined
+Q1,Two teams play a series of games (best of 7),Basic probability question not directly relevant to ML or recommender systems,1,0,1
+Q2,Say you roll a die three times,Basic probability concept unrelated to job requirements,1,0,1
+Q3,You roll three dice,Elementary probability question not aligned with ML engineering needs,1,0,1
+Q4,Assume you have a deck of 100 cards,Basic combinatorics problem unrelated to core job functions,1,0,1
+Q5,Imagine you are in a 3D space,Path-finding probability question with minimal relevance to role,1,0,1
+Q6,One in a thousand people have a particular disease,Tests Bayes theorem understanding which is relevant for ML but too basic,2,1,4
+Q7,Assume two coins,"one fair"", Bayesian probability relevant to ML but too simplified",2,1,4
+Q8,Players A and B are playing a game,Basic probability concept unrelated to job requirements,1,0,1
+Q9,Three friends in Seattle each told you it is rainy,Bayesian probability relevant to ML but too simplified,2,1,4
+Q10,You draw a circle and choose two chords,Geometric probability unrelated to job requirements,1,0,1
+Q11,You and your friend are playing a game,Basic probability unrelated to core job functions,1,0,1
+Q12,Say you are playing a game where you roll,Expected value calculation unrelated to job requirements,1,0,1
+Q13,Facebook has a content team that labels pieces,Tests understanding of classification and labeling relevant to ML,3,1,5
+Q14,A couple has two children,Basic probability unrelated to job requirements,1,0,1
+Q15,A desk has eight drawers,Conditional probability unrelated to core job functions,1,0,1
+Q16,Two players are playing in a tennis match,Markov chain probability but not directly relevant to role,2,1,4
+Q17,Say you have a deck of 50 cards,Basic probability unrelated to job requirements,1,0,1
+Q18,Suppose you have ten fair dice,Complex probability but not relevant to ML engineering,1,0,1
+Q19,A and B play the following game,Expected value calculation unrelated to job requirements,1,0,1
+Q20,You are given an unfair coin,Bias correction relevant to ML but too simplified,2,1,4
+Q21,Suppose you are given a white cube,Geometric probability unrelated to job requirements,1,0,1
+Q22,Assume you take a stick of length 1,Geometric probability unrelated to job requirements,1,0,1
+Q23,What is the probability that HHT shows up,Sequential probability unrelated to role,1,1,3
+Q24,A fair coin is tossed twice,Conditional probability with minimal ML relevance,1,1,3
+Q25,Three ants are sitting at the corners,Complex probability but not relevant to ML role,1,0,1
+Q26,A biased coin with probability p,Recurrence relations somewhat relevant to ML algorithms,2,1,4
+Q27,Alice and Bob are playing a game,Markov chain probability but not directly relevant,2,0,2
+Q28,Say you have three draws of a uniformly,Distribution analysis relevant to ML but basic,2,0,2
+Q29,Say you have 150 friends,Combinatorial probability unrelated to job requirements,1,0,1
+Q30,A fair die is rolled n times,Distribution analysis somewhat relevant to ML,2,0,2
+Q31,Say you have a jar initially containing,Markov process probability but not directly relevant,2,1,4
+Q32,A fair coin is tossed n times,Conditional probability with minimal ML relevance,1,0,1
+Q33,You have N i.i.d. draws of numbers,Statistical inference relevant to ML applications,3,1,5
+Q34,You pick three random points,Geometric probability unrelated to job requirements,1,0,1
+Q35,You have r red balls and w white balls,Basic probability unrelated to job requirements,1,0,1
+Q36,Explain the Central Limit Theorem,Core statistical concept relevant to ML,3,1,5
+Q37,How would you explain a confidence interval,Statistical understanding relevant to experimentation,3,1,5
+Q38,What are some common pitfalls encountered in A/B testing,Directly relevant to job requirement of experimentation,4,1,6
+Q39,Explain both covariance and correlation,Statistical concepts relevant to ML analysis,3,1,5
+Q40,Say you flip a coin 10 times,Basic hypothesis testing relevant to experimentation,3,1,5
+Q41,Describe hypothesis testing and p-values,Statistical knowledge crucial for experimentation,4,1,6
+Q42,Describe what Type I and Type II errors are,Important for ML model evaluation,4,1,6
+Q43,Explain the statistical background behind power,Statistical concept relevant to experimentation,3,1,5
+Q44,What is a Z-test and when would you use it,Statistical testing knowledge relevant to role,3,1,5
+Q45,Say you are testing hundreds of hypotheses,Multiple testing problem relevant to ML applications,4,1,6
+Q46,How would you derive a confidence interval,Statistical inference relevant to ML,3,0,3
+Q47,What is the expected number of coin flips,Basic probability unrelated to job requirements,1,0,1
+Q48,What is the expected number of rolls,Basic probability unrelated to job requirements,1,0,1
+Q49,Say you're rolling a fair six-sided die,Basic probability unrelated to job requirements,1,0,1
+Q50,A coin was flipped 1000 times,Basic hypothesis testing relevant to experimentation,3,1,5
+Q51,You are drawing from a normally distributed random variable X ~ N(0," 1) once a day..."", Basic probability question with minimal direct relevance to ML engineering role",2,0,2
+Q52,Say you have two random variables X and Y," each with a standard deviation..."", Tests fundamental statistical knowledge but not directly related to recommendation systems",2,1,4
+Q53,Say we have X ~ Uniform(0," 1) and Y ~ Uniform(0,  1) and the two are independent..."", Basic probability concept without direct application to role requirements",2,0,2
+Q54,Say you have an unfair coin which lands on heads 60% of the time...,Related to experimental design but too basic for ML engineering role,2,1,4
+Q55,Say you have n numbers 1...n," and you uniformly sample from this distribution..."", Basic sampling concept without direct ML application",2,0,2
+Q56,There are 100 noodles in a bowl. At each step," you randomly select two noodle ends..."", Probability puzzle unrelated to job requirements",1,0,1
+Q57,What is the expected value of the max of two dice rolls?,Basic probability question not relevant to ML engineering,1,0,1
+Q58,Derive the mean and variance of the uniform distribution U(a," b)."", Basic statistical theory without direct ML application",2,0,2
+Q59,How many cards would you expect to draw from a standard deck before seeing the first ace?,Probability question unrelated to job requirements,1,0,1
+Q60,Say you draw n samples from a uniform distribution U(a," b). What are the MLE estimates..."", Tests statistical inference relevant to ML modeling",3,1,5
+Q61,Assume you are drawing from an infinite set of i.i.d random variables...,Tests understanding of probability sequences but not directly relevant,2,0,2
+Q62,There are two games involving dice that you can play...,Basic probability question without ML relevance,1,0,1
+Q63,What does it mean for an estimator to be unbiased? What about consistent?...,Important statistical concepts relevant to ML model evaluation,3,1,5
+Q64,What are MLE and MAP? What is the difference between the two?,Directly relevant to ML model optimization techniques,4,1,6
+Q65,Say you are given a random Bernoulli trial generator...,Tests understanding of probability distributions and sampling methods,3,1,5
+Q66,Derive the expectation for a geometric random variable.,Basic probability theory without direct ML application,2,0,2
+Q67,Say we have a random variable X ~ D," where D is an arbitrary distribution..."", Tests understanding of probability theory relevant to ML",3,1,5
+Q68,Describe what a moment generating function (MGF) is...,Advanced statistical concept with some ML relevance,3,0,3
+Q69,Say you have N independent and identically distributed draws of an exponential...,Statistical estimation relevant to ML modeling,3,1,5
+Q70,Assume that log X ~ N(0," 1). What is the expectation of X?"", Tests understanding of probability transformations",3,0,3
+Q71,Say you have two distinct subsets of a dataset for which you know their means...,Relevant to data preprocessing and model training,4,1,6
+Q72,Say we have two random variables X and Y. What does it mean for X and Y to be independent?,Important statistical concept for ML feature engineering,3,1,5
+Q73,Say we have X ~ Uniform(-1," 1) and Y = X^2. What is the covariance of X and Y?"", Tests understanding of statistical relationships",3,0,3
+Q74,How do you uniformly sample points at random from a circle with radius R?,Sampling technique with limited direct ML application,2,1,4
+Q75,Say you continually sample from some i.i.d. uniformly distributed (0," 1)..."", Basic probability concept without direct ML relevance",2,0,2
+Q76,Say you are building a binary classifier for an unbalanced dataset...,Directly relevant to ML model development and optimization,4,1,6
+Q77,What are some differences you would expect in a model that minimizes squared error...,Tests understanding of loss functions and model optimization,4,1,6
+Q78,When performing K-means clustering," how do you choose k?"", Relevant to ML clustering algorithms and optimization",4,1,6
+Q79,How can you make your models more robust to outliers?,Critical for ML model development and optimization,4,1,6
+Q80,Say that you are running a multiple linear regression...,Tests understanding of feature relationships in ML,4,1,6
+Q81,Describe the motivation behind random forests...,Directly relevant to ML algorithms and ensemble methods,4,1,6
+Q82,Given a large dataset of payment transactions...,Tests handling of real-world ML challenges,4,1,6
+Q83,Say you are running a simple logistic regression...,Tests ML model improvement strategies,4,1,6
+Q84,Say you were running a linear regression for a dataset but you accidentally duplicated...,Tests understanding of regression properties,3,0,3
+Q85,Compare and contrast gradient boosting and random forests.,Tests knowledge of advanced ML algorithms,4,1,6
+Q86,Say that DoorDash is launching in Singapore...,Tests understanding of ML model requirements and constraints,4,1,6
+Q87,Say we are running a binary classification loan model...,Relevant to ML model interpretability,4,1,6
+Q88,Say you are given a very large corpus of words...,Tests NLP knowledge relevant to recommendation systems,4,1,6
+Q89,What is the bias-variance trade-off?,Fundamental ML concept highly relevant to role,4,1,6
+Q90,Define the cross-validation process.,Critical ML model evaluation concept,4,1,6
+Q91,How would you build a lead scoring algorithm...,Directly relevant to recommendation systems,4,0,4
+Q92,How would you approach creating a music recommendation algorithm?,Perfectly aligned with job's recommendation system focus,4,1,6
+Q93,Define what it means for a function to be convex...,Tests understanding of ML optimization theory,4,1,6
+Q94,Explain what information gain and entropy are...,Important concepts for ML model development,4,1,6
+Q95,What is L1 and L2 regularization?,Critical ML model optimization concept,4,1,6
+Q96,Describe gradient descent and the motivations behind stochastic gradient descent.,Fundamental ML optimization technique,4,1,6
+Q97,Assume we have a classifier that produces a score between 0 and 1...,Tests understanding of ML model evaluation metrics,4,1,6
+Q98,Say X is a univariate Gaussian random variable. What is the entropy of X?,Information theory concept relevant to ML,3,1,5
+Q99,How would you build a model to calculate a customer's propensity...,Directly relevant to recommendation systems,4,0,4
+Q100,Compare and contrast Gaussian Naive Bayes (GNB) and logistic regression...,Tests understanding of different ML algorithms,4,1,6
+Q101," ""What loss function is used in k-means clustering given k clusters and n sample points?", Tests fundamental ML concepts and optimization techniques relevant for recommendation systems,3,1,5
+Q102," ""Describe the kernel trick in SVMs and give a simple example.", Tests theoretical ML knowledge but not directly relevant to recommendation systems focus,2,0,2
+Q103," ""Say we have N observations for some variable which we model as being drawn from a Gaussian distribution.", Tests statistical fundamentals needed for ML work but not specific to role requirements,2,0,2
+Q104," ""Say we are using a Gaussian mixture model (GMM) for anomaly detection of fraudulent transactions", Shows understanding of probabilistic models but not focused on recommendation systems,2,0,2
+Q105," ""Walk me through how you'd build a model to predict whether a particular Robinhood user will churn?", Tests practical ML application and user behavior modeling similar to role requirements,3,0,3
+Q106," ""Suppose you are running a linear regression and model the error terms as being normally distributed.", Tests statistical understanding but not directly aligned with deep learning focus,2,0,2
+Q107," ""Describe the idea behind Principle Components Analysis (PCA)", Tests dimensionality reduction knowledge relevant for large-scale recommendations,3,1,5
+Q108," ""Describe the model formulation behind logistic regression.", Tests fundamental ML concepts but not directly related to deep learning focus,2,1,4
+Q109," ""How would you approach creating a music recommendation algorithm", Directly tests recommendation system design and implementation knowledge,4,1,6
+Q110," ""Derive the variance-covariance matrix of the least squares parameter estimates", Tests statistical theory but not aligned with deep learning focus,1,0,1
+Q111," ""Assume you have the below events table on app analytics.", Tests data analysis skills needed for algorithmic improvements,3,1,5
+Q112," ""Assume you are given the tables below containing information on trades and users.", Assesses data manipulation skills but not core to ML role,2,0,2
+Q113," ""Assume that you are given the table below containing information on viewership by device type", Tests basic data analysis but not specific to ML requirements,2,0,2
+Q114," ""Assume you are given the table below for spending activity by product type.", Tests data analysis capabilities useful for feature engineering,3,0,3
+Q115," ""Assume that you are given the table below containing information on various orders", Basic data analysis question not specific to ML role,2,0,2
+Q116," ""Assume you are given the table below containing information on tweets.", Relevant to platform-specific data analysis needs,3,1,5
+Q117," ""Assume you are given the table below containing information on user purchases.", Tests data analysis skills relevant to user behavior modeling,3,0,3
+Q118," ""Assume you are given the table below that shows the job postings", Basic data analysis not specific to ML requirements,2,0,2
+Q119," ""Assume you are given the table below on user transactions.", Tests basic data analysis skills not core to ML role,2,0,2
+Q120," ""Assume you are given the table below containing information on each user's tweets", Directly relevant to platform metrics and analysis,4,1,6
+Q121," ""Assume you are given the table below on transactions made by users.", Basic data querying not specific to ML role,2,0,2
+Q122," ""Assume you are given the table below containing information on customer spend", Tests data analysis but not specific to ML requirements,2,0,2
+Q123," ""Assume you are given the below table on transactions from users.", Basic data analysis not core to ML focus,2,0,2
+Q124," ""What is a database view?", Basic database knowledge not central to ML role,1,1,3
+Q125," ""Say you have a database system where most of the queries made were UPDATEs/INSERTs/DELETEs.", Database optimization knowledge not central to ML role,1,1,3
+Q126," ""What is a primary key?", Basic database concept not relevant to ML focus,1,0,1
+Q127," ""Describe some advantages and disadvantages of relational databases vs. NoSQL databases.", Database architecture knowledge somewhat relevant for ML systems,2,1,4
+Q128," ""Say you want to set up a MapReduce job to implement a shuffle operator", Tests distributed computing knowledge relevant for large-scale ML,3,1,5
+Q129," ""Name one major similarity and difference between a WHERE clause and a HAVING clause in SQL.", Basic SQL knowledge not central to ML role,1,0,1
+Q130," ""Describe what a foreign key is and how it relates to a primary key.", Basic database concept not relevant to ML focus,1,0,1
+Q131," ""Describe what a clustered index and a non-clustered index are.", Database optimization not central to ML role,1,1,3
+Q132," ""Assume you are given the two tables below containing information on the topics", Platform-specific analysis relevant to recommendation systems,4,1,6
+Q133," ""Assume you have the tables below containing information on user actions.", User behavior analysis relevant to ML modeling,3,1,5
+Q134," ""Assume you are given the tables below containing information on user session activity.", User engagement analysis relevant to ML systems,3,1,5
+Q135," ""Assume you are given the tables below containing information on Snapchat users", User behavior analysis but not platform-specific,2,0,2
+Q136," ""Assume you are given the table below containing information on user sessions", Session analysis relevant to user modeling,3,0,3
+Q137," ""Assume you are given the table below containing information on user reviews.", Basic data analysis not specific to ML requirements,2,0,2
+Q138," ""Assume you are given the table below containing measurement values", Data analysis not specific to ML focus,2,0,2
+Q139," ""Assume you are given the two tables below containing information on user signups", User behavior analysis relevant to ML modeling,3,0,3
+Q140," ""Assume you are given the following tables on customer transactions and products.", Pattern analysis relevant to recommendation systems,3,1,5
+Q141," ""Assume you have the table given below containing information on user logins.", User behavior analysis relevant to ML systems,3,0,3
+Q142," ""Assume you are given the table below containing information on user transactions", Time series analysis relevant to ML modeling,3,0,3
+Q143," ""Assume you are given the table below containing information on user transactions", Financial data analysis not specific to role,2,0,2
+Q144," ""Say you had the entire Facebook social graph", Tests distributed computing and graph analysis relevant to ML systems,3,1,5
+Q145," ""Assume you are tasked with designing a large-scale system", System design relevant to ML infrastructure,3,1,5
+Q146," ""Given two arrays write a function to get the intersection", Basic programming not specific to ML role,1,0,1
+Q147," ""Given an integer array return the maximum product of any three numbers", Algorithm implementation not specific to ML focus,1,0,1
+Q148," ""Given a list of coordinates write a function to find the k closest points", Implements k-nearest neighbors concept relevant to ML,3,1,5
+Q149," ""Say you have an n-by-n matrix of elements that are sorted", Algorithm implementation not specific to ML requirements,1,0,1
+Q150," ""Given an integer array find the sum of the largest contiguous subarray", Basic algorithm implementation not specific to ML role,1,0,1
+Q151,Given a binary tree,"write a function to determine whether the tree is a mirror image of itself"", Tests algorithmic problem-solving but not directly related to ML or recommendation systems",1,0,1
+Q152,Given an array of positive integers,"a peak element is greater than its neighbors"", Basic algorithmic question without relevance to ML systems or recommendations",1,0,1
+Q153,Given two lists X and Y,"return their correlation"", Relevant to statistical analysis and ML feature engineering but too basic for the role",2,1,4
+Q154,Given a binary tree,"write a function to determine the diameter of the tree"", Tests data structure knowledge but not relevant to ML systems",1,0,1
+Q155,Given a target number,"generate a random sample of n integers that sum to that target"", Related to statistical sampling but not directly aligned with recommendation systems",2,1,4
+Q156,You have the entire social graph of Facebook users with nodes representing users,Relevant to social network analysis and recommendation systems,3,1,5
+Q157,Given two strings A and B,"write a function to return a list of all the start indices"", Not relevant to ML or recommendation systems",1,0,1
+Q158,You are given an array of intervals where each interval is represented by a start time,Not relevant to ML engineering or recommendation systems,1,0,1
+Q159,Given an array of strings return a list of lists where each list contains the strings,Basic algorithmic question without ML relevance,1,0,1
+Q160,Say that there are n people. If person A is friends with person B,Related to social network analysis and recommendation systems,3,1,5
+Q161,Given a linked list return the head of the same linked list but with k-th node,Not relevant to ML or recommendation systems,1,0,1
+Q162,Estimate π using a Monte Carlo method,Tests statistical simulation knowledge but not directly relevant to role,2,1,4
+Q163,Given a string with lowercase letters and left and right parentheses,Not relevant to ML or recommendation systems,1,0,1
+Q164,Given a list of one or more distinct integers write a function to generate all permutations,Not relevant to ML systems,1,0,1
+Q165,Given a list of several categories sample from the list of categories according to weights,Relevant to recommendation systems and weighted sampling,4,1,6
+Q166,Given two arrays with integers return the maximum length of a common subarray,Not relevant to ML systems,1,0,1
+Q167,Given a list of positive integers return the maximum increasing subsequence sum,Not relevant to ML or recommendation systems,1,0,1
+Q168,Given a positive integer n find the smallest number of perfect squares,Not relevant to ML engineering role,1,0,1
+Q169,Given an integer n and an integer k output a list of all of the combinations,Not relevant to ML systems,1,0,1
+Q170,Given a string with left and right parentheses write a function to determine,Not relevant to ML engineering,1,0,1
+Q171,Given an m-by-n matrix with positive integers determine the length of the longest path,Not relevant to ML systems,1,0,1
+Q172,Given a number n return the number of lists of consecutive positive integers,Not relevant to ML or recommendation systems,1,0,1
+Q173,Given a continuous stream of integers write a class with functions,Related to real-time data processing but not specific to ML,2,1,4
+Q174,Given an input string and a regex write a function that checks whether the regex matches,Not relevant to ML systems,1,0,1
+Q175,A fire department wants to build a new fire station in a location,Tests optimization but not specific to ML systems,2,1,4
+Q176,Imagine the social graphs for both Facebook and Twitter,Highly relevant to social network analysis and recommendations,4,1,6
+Q177,Why does surge pricing exist? What metrics would you track,Related to ML-based pricing but not core to role,2,0,2
+Q178,What factors might make A/B testing metrics on the Airbnb platform difficult,Very relevant to experimentation in ML systems,4,1,6
+Q179,We currently pay the Mozilla foundation 9 figures per year,Not relevant to ML engineering role,1,0,1
+Q180,Assume you were working on LinkedIn's Feed. What metrics would you use,Directly relevant to feed recommendation systems,4,1,6
+Q181,Your team is trying to figure out whether a new rider app with extra UI features,Related to A/B testing but not ML-specific,3,1,5
+Q182,If you were to plot the average revenue per seller on the Amazon marketplace,Related to data analysis but not core to ML role,2,0,2
+Q183,Besides posts Facebook is legally obligated to remove what other types,Related to content recommendation and filtering,3,1,5
+Q184,The Amazon books team finds that books with more complete author profiles sell more,Tests analysis but not ML-specific,2,1,4
+Q185,Let's say Snapchat saw an overall 5% decrease in daily active users,Tests analysis but not ML-specific,2,0,2
+Q186,Say you ship a new search ranking algorithm on Pinterest,Directly relevant to ML ranking systems,4,1,6
+Q187,Say a given category such as sci-fi TV shows has less total watch time,Related to content recommendation analysis,4,1,6
+Q188,Say you have data on millions of Apple customers and their purchases,Related to customer segmentation but not core to role,2,0,2
+Q189,If 70% of Facebook users on iOS also use Instagram,Tests analysis but not ML-specific,2,0,2
+Q190,How would you assess the stickiness of the Capital One Quicksilver credit card,Not relevant to ML systems,1,0,1
+Q191,Say you worked on YouTube Premium which is an ad-free version of YouTube,Not directly relevant to ML engineering,1,0,1
+Q192,Should Twitter add Facebook-style emoji reactions to tweets,Related to engagement features but not ML-specific,2,1,4
+Q193,What metrics would you use to measure user engagement at Slack,Related to metrics but not ML-specific,2,0,2
+Q194,Say you wanted to estimate the physical store sales for a publicly traded retail chain,Tests analysis but not ML-specific,2,0,2
+Q195,Assume that you are designing a system whose purpose is to recommend shows,Directly relevant to recommendation systems,4,1,6
+Q196,Assume that you are modeling the yearly revenue of new property being listed,Related to ML modeling but not core focus,3,0,3
+Q197,How would you build an algorithm to price products sold physically at Walmart,Related to ML-based pricing systems,3,0,3
+Q198,Assume that you want to help a major hotel chain analyze what people say,Related to NLP and sentiment analysis,3,1,5
+Q199,Suppose you are to build out Facebook's friend recommendation product,Directly relevant to social recommendation systems,4,1,6
+Q200,Assume you are working on a loan approval model for small businesses,Related to ML model evaluation and metrics,3,0,3

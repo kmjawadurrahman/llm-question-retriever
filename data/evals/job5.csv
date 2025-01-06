@@ -1,0 +1,201 @@
+Question ID,Question Text,Review,Score,Score Binary,Score Combined
+Q1,Two teams play a series of games (best of 7 - whoever wins 4 games first) where each team has 50% chance,Basic probability concept but not directly relevant to fraud detection or ML,2,0,2
+Q2,Say you roll a die three times. What is the probability of getting two sixes in a row?,Basic probability without ML or data science application,1,0,1
+Q3,You roll three dice,"one after another. What is the probability that you obtain numbers in strictly increasing"", Basic probability without relevant application",1,0,1
+Q4,Assume you have a deck of 100 cards with values ranging from 1 to 100 and draw two cards at random,Simple probability calculation not aligned with job requirements,1,0,1
+Q5,"Imagine you are in a 3D space. From (0,0,0) to (3,3,3)","how many paths are there"", Tests logical thinking but not relevant to ML or data science tasks",1,0,1
+Q6,One in a thousand people have a particular disease,"and the test is 98% correct"", Tests Bayesian probability relevant to ML classification problems",4,1,6
+Q7,Assume two coins,"one fair and one unfair, you pick one at random and flip five times"", Tests Bayesian inference applicable to ML models",4,1,6
+Q8,Players A and B play game where they take turns flipping biased coin,Basic probability without ML application,2,0,2
+Q9,Three friends in Seattle each told you it is rainy,"and each person has 1/3 probability of lying"", Probability with conditional independence relevant to ML",3,1,5
+Q10,You draw a circle and choose two chords at random,Geometric probability without relevance to job requirements,1,0,1
+Q11,You and friend play game,"toss coin until HH or TH shows up"", Basic probability without ML application",1,0,1
+Q12,Playing game where you roll 6-sided die up to two times,Expected value calculation not relevant to job requirements,1,0,1
+Q13,Facebook content team labels pieces as spam or not spam,"90% diligent raters"", Tests Bayesian analysis relevant to classification problems",4,1,6
+Q14,Couple has two children,"one is boy, probability second is boy"", Basic probability without relevance to job",1,0,1
+Q15,Desk has eight drawers,"probability 1/2 letter was placed"", Basic conditional probability not relevant to role",1,0,1
+Q16,Tennis match at deuce,"first player 60% chance of winning point"", Probability without ML application",1,0,1
+Q17,Deck of 50 cards in 5 colors,"probability two random cards different color and number"", Basic probability calculation not relevant",1,0,1
+Q18,Ten fair dice thrown simultaneously,"probability sum divisible by 6"", Complex probability but not relevant to job requirements",2,0,2
+Q19,Game where number k chosen from 1-6,"die tossed until k appears"", Expected value without ML relevance",1,0,1
+Q20,Unfair coin with unknown bias,"how to generate fair odds"", Probability concept relevant to bias handling in ML",3,1,5
+Q21,White cube broken into 27 pieces,"faces painted green"", Geometric probability without job relevance",1,0,1
+Q22,Stick of length 1 broken into three parts,Geometric probability without relevance to role,1,0,1
+Q23,Random sequence of H's and T's,"HHT before HTT"", Markov chain concept relevant to sequence analysis",3,0,3
+Q24,Fair coin tossed twice,"more likely two heads given conditions"", Conditional probability with ML relevance",3,0,3
+Q25,Three ants at corners of triangle,"random movement"", Complex probability without job relevance",1,0,1
+Q26,Biased coin tossed n times,"recurrence relation for even heads"", Mathematical modeling relevant to ML",3,1,5
+Q27,Alice and Bob playing game series until two more wins,Probability without ML application,1,0,1
+Q28,Three draws of uniform random variable,"median greater than 1.5"", Statistical analysis relevant to data science",3,1,5
+Q29,150 friends,"3 have specific digit patterns"", Basic probability without job relevance",1,0,1
+Q30,Fair die rolled n times,"probability largest number is r"", Distribution analysis relevant to ML",3,0,3
+Q31,Jar with amoeba,"probability of extinction"", Markov process relevant to sequential analysis",3,0,3
+Q32,Fair coin n tosses,"k heads, probability first was heads"", Conditional probability relevant to ML",3,1,5
+Q33,N i.i.d. draws from normal distribution,Statistical inference crucial for ML,4,1,6
+Q34,Three random points on circle form triangle,Geometric probability without relevance,1,0,1
+Q35,Red and white balls in bag,"probability of one color remaining"", Random process without ML relevance",1,0,1
+Q36,Explain Central Limit Theorem,Core statistical concept essential for ML,4,1,6
+Q37,Explain confidence interval to non-technical audience,Tests communication of technical concepts,4,1,6
+Q38,Common pitfalls in A/B testing,Directly relevant to experimentation and analysis,4,1,6
+Q39,Explain covariance and correlation,Core statistical concepts needed for ML,4,1,6
+Q40,Coin flip 10 times,"one heads, hypothesis testing"", Statistical testing crucial for analysis",4,1,6
+Q41,Describe hypothesis testing and p-values,Fundamental statistical concept for analysis,4,1,6
+Q42,Describe Type I and Type II errors,Essential for ML model evaluation,4,1,6
+Q43,Explain statistical power,Critical for experimental design and testing,4,1,6
+Q44,Z-test versus t-test usage,Statistical testing knowledge essential for role,4,1,6
+Q45,Testing hundreds of hypotheses considerations,Multiple testing relevant to ML applications,4,1,6
+Q46,Derive confidence interval for probability,Statistical inference relevant to ML,4,0,4
+Q47,Expected flips for two consecutive heads,Basic probability without ML relevance,1,0,1
+Q48,Expected rolls to see all die sides,Basic probability without ML relevance,1,0,1
+Q49,Expected rolls for two consecutive 5s,Basic probability without ML relevance,1,0,1
+Q50,1000 coin flips,"550 heads, bias analysis"", Statistical inference and hypothesis testing",4,1,6
+Q51,"Expected number of days until N(0,1) > 2",Tests fundamental statistical knowledge relevant for ML models,3,0,3
+Q52,Variance of aX + bY with standard deviations,Basic statistical concept needed for ML modeling,3,1,5
+Q53,Expected value of minimum of uniform distributions,Demonstrates statistical understanding for model development,3,0,3
+Q54,Detecting unfair coin probability,Shows hypothesis testing knowledge needed for fraud detection,4,1,6
+Q55,Expected distinct values in uniform sampling,Tests probability understanding for ML applications,3,0,3
+Q56,Expected loops in noodle problem,Too abstract and not directly relevant to job requirements,1,0,1
+Q57,Expected value of max dice rolls,Too basic and not relevant to job requirements,1,0,1
+Q58,Mean and variance of uniform distribution,Fundamental statistical knowledge needed for modeling,3,1,5
+Q59,Expected draws before first ace,Too basic and not relevant to job requirements,1,0,1
+Q60,MLE estimates for uniform distribution,Demonstrates understanding of statistical estimation,4,1,6
+Q61,Expected length of monotonic sequence,Tests advanced probability concepts,3,0,3
+Q62,Dice game expected value comparison,Not directly relevant to job requirements,1,0,1
+Q63,Unbiased vs consistent estimators,Important statistical concepts for ML model evaluation,4,1,6
+Q64,MLE vs MAP difference,Critical for machine learning model development,4,1,6
+Q65,Generating normal distribution from Bernoulli,Shows understanding of probability transformations,3,0,3
+Q66,Geometric distribution expectation,Basic probability concept needed for modeling,3,0,3
+Q67,Distribution of CDF transformation,Advanced probability concept relevant for ML,3,0,3
+Q68,Moment generating function for normal distribution,Advanced statistical concept for ML modeling,4,0,4
+Q69,Estimator for exponential distribution,Shows understanding of statistical estimation,3,0,3
+Q70,Expectation of lognormal distribution,Tests understanding of probability distributions,3,0,3
+Q71,Blended mean and standard deviation calculation,Relevant for data analysis and model development,4,1,6
+Q72,Independence vs correlation,Essential statistical concept for ML modeling,4,1,6
+Q73,Covariance of uniform and squared,Tests understanding of statistical relationships,3,0,3
+Q74,Uniform sampling from circle,Shows geometric probability understanding,2,0,2
+Q75,Expected samples until sum exceeds 1,Tests probability concept understanding,2,0,2
+Q76,Handling unbalanced datasets,Directly relevant to fraud detection challenges,4,1,6
+Q77,Squared vs absolute error differences,Important for model optimization decisions,4,1,6
+Q78,Choosing k in K-means clustering,Tests knowledge of unsupervised learning,4,1,6
+Q79,Making models robust to outliers,Critical for fraud detection applications,4,1,6
+Q80,Handling correlated predictors,Important for feature selection and modeling,4,1,6
+Q81,Random forests motivation,Tests understanding of ensemble methods,4,1,6
+Q82,Handling missing values,Critical for real-world data processing,4,1,6
+Q83,Improving logistic regression,Shows model optimization knowledge,4,1,6
+Q84,Impact of duplicated data on regression,Tests understanding of model behavior,3,0,3
+Q85,Gradient boosting vs random forests,Tests knowledge of ensemble methods,4,1,6
+Q86,ETA prediction with limited data,Tests real-world ML application understanding,4,0,4
+Q87,Binary classification model interpretability,Shows practical ML application knowledge,4,1,6
+Q88,Identifying synonyms in word corpus,Tests NLP knowledge but not core requirement,2,0,2
+Q89,Bias-variance trade-off,Fundamental ML concept relevant to role,4,1,6
+Q90,Cross-validation process,Essential for model validation and testing,4,1,6
+Q91,Lead scoring algorithm development,Tests end-to-end ML solution design,4,0,4
+Q92,Music recommendation algorithm,Not directly relevant to fraud detection,2,0,2
+Q93,Convex function definition,Important for optimization understanding,4,1,6
+Q94,Information gain and entropy,Essential for decision tree understanding,4,1,6
+Q95,L1 vs L2 regularization,Critical for model optimization,4,1,6
+Q96,Gradient descent explanation,Fundamental ML optimization concept,4,1,6
+Q97,ROC curve transformation,Shows understanding of model evaluation metrics,4,1,6
+Q98,Gaussian entropy calculation,Advanced probability concept for ML,3,0,3
+Q99,Customer propensity model,Tests ML application but not core requirement,2,0,2
+Q100,GNB vs logistic regression,Shows understanding of classification methods,4,1,6
+Q101,What loss function is used in k-means clustering...,Directly tests understanding of clustering algorithms - key requirement,4,1,6
+Q102,Describe the kernel trick in SVMs...,Tests advanced ML knowledge but not specific to fraud detection needs,3,0,3
+Q103,Say we have N observations for some variable...,Tests statistical modeling fundamentals needed for role,4,0,4
+Q104,Say we are using a Gaussian mixture model (GMM) for anomaly detection...,Perfect match for fraud detection requirement,4,1,6
+Q105,Walk me through how you'd build a model to predict...,Tests end-to-end modeling approach but not fraud specific,3,0,3
+Q106,Suppose you are running a linear regression...,Tests statistical understanding required for role,4,0,4
+Q107,Describe the idea behind Principle Components Analysis...,Relevant for dimensionality reduction in large datasets,3,1,5
+Q108,Describe the model formulation behind logistic regression...,Essential for binary classification tasks in fraud detection,4,1,6
+Q109,How would you approach creating a music recommendation algorithm...,Tests ML concepts but not relevant to fraud context,2,0,2
+Q110,Derive the variance-covariance matrix...,Tests advanced statistical knowledge required for role,4,0,4
+Q111,Assume you have the below events table...,Tests SQL skills for analytics - core requirement,4,0,4
+Q112,Assume you are given the tables below containing information on trades...,Tests SQL joins and aggregations needed for role,4,1,6
+Q113,Assume that you are given the table below containing information on viewership...,Basic SQL skills assessment,3,0,3
+Q114,Assume you are given the table below for spending activity...,Tests complex SQL needed for transaction analysis,4,1,6
+Q115,Assume that you are given the table below containing information on various orders...,Relevant for customer spending analysis,4,0,4
+Q116,Assume you are given the table below containing information on tweets...,Basic SQL aggregation question,2,0,2
+Q117,Assume you are given the table below containing information on user purchases...,Tests transaction pattern analysis,4,1,6
+Q118,Assume you are given the table below that shows the job postings...,Basic SQL deduplication question,2,0,2
+Q119,Assume you are given the table below on user transactions...,Tests transaction analysis skills,3,0,3
+Q120,Assume you are given the table below containing information on each user's tweets...,Tests time-series analysis in SQL,3,0,3
+Q121,Assume you are given the table below on transactions...,Basic SQL ranking question,2,1,4
+Q122,Assume you are given the table below containing information on customer spend...,Complex SQL for business metrics,4,0,4
+Q123,Assume you are given the below table on transactions from users...,Tests transaction analysis capabilities,4,1,6
+Q124,What is a database view?,Tests basic database knowledge needed for role,3,1,5
+Q125,Say you have a database system...,Tests understanding of database optimization,3,1,5
+Q126,What is a primary key?,Basic database concept question,2,0,2
+Q127,Describe some advantages and disadvantages of relational databases...,Tests data architecture knowledge,3,1,5
+Q128,Say you want to set up a MapReduce job...,Tests large-scale data processing knowledge,4,1,6
+Q129,Name one major similarity and difference between a WHERE clause...,Basic SQL concept question,2,0,2
+Q130,Describe what a foreign key is...,Basic database concept question,2,0,2
+Q131,Describe what a clustered index and a non-clustered index are...,Tests database optimization knowledge,3,0,3
+Q132,Assume you are given the two tables below containing information...,Tests complex SQL analysis,4,0,4
+Q133,Assume you have the tables below containing information on user actions...,Tests user behavior analysis skills,4,0,4
+Q134,Assume you are given the tables below containing information on user session...,Tests complex SQL analytics,4,0,4
+Q135,Assume you are given the tables below containing information on Snapchat users...,Tests data aggregation skills,3,0,3
+Q136,Assume you are given the table below containing information on user sessions...,Complex SQL temporal analysis,4,0,4
+Q137,Assume you are given the table below containing information on user reviews...,Tests business metrics analysis,4,0,4
+Q138,Assume you are given the table below containing measurement values...,Tests data processing capabilities,3,0,3
+Q139,Assume you are given the two tables below containing information on user signups...,Tests conversion analysis,4,0,4
+Q140,Assume you are given the following tables on customer transactions...,Tests pattern analysis in transactions,4,1,6
+Q141,Assume you have the table given below containing information on user logins...,Tests user behavior analysis,3,0,3
+Q142,Assume you are given the table below containing information on user transactions...,Tests time-series analysis,4,1,6
+Q143,Assume you are given the table below containing information on user transactions...,Relevant for transaction analysis,4,1,6
+Q144,Say you had the entire Facebook social graph...,Tests large-scale data processing,4,0,4
+Q145,Assume you are tasked with designing a large-scale system...,Tests system design for large datasets,4,1,6
+Q146,Given two arrays write a function to get the intersection...,Basic coding question - below role level,2,0,2
+Q147,Given an integer array return the maximum product...,Basic algorithmic question - not role specific,2,0,2
+Q148,Given a list of coordinates write a function to find...,Tests algorithmic thinking but not ML focused,2,0,2
+Q149,Say you have an n-by-n matrix of elements...,Basic algorithm question - not role specific,2,0,2
+Q150,Given an integer array find the sum of the largest contiguous subarray...,Basic coding - not relevant to role,2,0,2
+Q151,Given a binary tree write a function to determine whether the tree is a mirror image of itself...,Tests algorithmic problem-solving but not directly related to ML or fraud prevention,2,0,2
+Q152,Given an array of positive integers a peak element is greater than its neighbors...,Basic algorithmic question without ML/statistical relevance,1,0,1
+Q153,Given two lists X and Y return their correlation,Directly tests statistical knowledge required for the role,4,0,4
+Q154,Given a binary tree write a function to determine the diameter of the tree...,Basic data structure question without ML relevance,1,0,1
+Q155,Given a target number generate a random sample of n integers that sum to that target...,Tests statistical sampling and distribution knowledge,3,0,3
+Q156,You have the entire social graph of Facebook users with nodes representing users...,Tests graph analysis relevant to fraud detection networks,3,0,3
+Q157,Given two strings A and B write a function to return a list of all the start indices...,Basic string manipulation without ML relevance,1,0,1
+Q158,You are given an array of intervals where each interval is represented by a start time...,Algorithm question without direct ML application,2,0,2
+Q159,Given an array of strings return a list of lists where each list contains anagrams...,Basic string processing without ML relevance,1,0,1
+Q160,Say that there are n people. If person A is friends with person B...,Network analysis relevant to fraud detection patterns,3,0,3
+Q161,Given a linked list return the head of the same linked list but with k-th node...,Basic data structure manipulation without ML relevance,1,0,1
+Q162,Estimate π using a Monte Carlo method,Tests understanding of statistical sampling methods,4,1,6
+Q163,Given a string with lowercase letters and left and right parentheses...,Basic string manipulation without ML relevance,1,0,1
+Q164,Given a list of one or more distinct integers write a function to generate all permutations...,Basic algorithmic question without ML relevance,1,0,1
+Q165,Given a list of several categories sample from the list according to weights...,Tests probability and sampling knowledge relevant to ML,4,1,6
+Q166,Given two arrays with integers return the maximum length of a common subarray...,Basic array manipulation without ML relevance,1,0,1
+Q167,Given a list of positive integers return the maximum increasing subsequence sum...,Algorithm question without ML application,1,0,1
+Q168,Given a positive integer n find the smallest number of perfect squares...,Basic algorithm question without ML relevance,1,0,1
+Q169,Given an integer n and an integer k output a list of all combinations...,Basic combinatorics without ML application,1,0,1
+Q170,Given a string with left and right parentheses write a function to determine...,Basic string processing without ML relevance,1,0,1
+Q171,Given an m-by-n matrix with positive integers determine the longest path...,Algorithm question without ML application,1,0,1
+Q172,Given a number n return the number of lists of consecutive positive integers...,Basic math without ML relevance,1,0,1
+Q173,Given a continuous stream of integers write a class to calculate median...,Tests statistical analysis with streaming data,3,1,5
+Q174,Given an input string and a regex write a function that checks whether...,Pattern matching without ML relevance,1,0,1
+Q175,A fire department wants to build a new fire station...,Optimization problem relevant to ML applications,3,0,3
+Q176,Imagine the social graphs for both Facebook and Twitter...,Tests understanding of network analysis for fraud detection,3,0,3
+Q177,Why does surge pricing exist?,Tests understanding of dynamic pricing algorithms,3,0,3
+Q178,What factors might make A/B testing metrics on the Airbnb platform difficult?,Tests experimentation knowledge needed for role,4,1,6
+Q179,We currently pay Mozilla foundation 9 figures per year...,Business impact analysis relevant to role,3,0,3
+Q180,Assume you were working on LinkedIn's Feed...,Tests understanding of engagement metrics and ML applications,3,0,3
+Q181,Your team is trying to figure out whether a new rider app...,Tests A/B testing methodology knowledge,4,0,4
+Q182,If you were to plot the average revenue per seller...,Tests statistical distribution understanding,4,0,4
+Q183,Besides posts Facebook is legally obligated to remove...,Content classification relevant to ML applications,3,0,3
+Q184,The Amazon books team finds that books with more complete author profiles...,Tests causal analysis understanding,4,0,4
+Q185,Let's say Snapchat saw an overall 5% decrease...,Tests analytical problem-solving for metrics,3,0,3
+Q186,Say you ship a new search ranking algorithm...,Directly relevant to ML deployment and metrics,4,0,4
+Q187,Say a given category has less total watch time...,Tests analytical approach to content recommendations,3,0,3
+Q188,Say you have data on millions of Apple customers...,Tests clustering and segmentation knowledge,4,1,6
+Q189,If 70% of Facebook users on iOS also use Instagram...,Tests statistical analysis methodology,4,0,4
+Q190,How would you assess the stickiness...,Tests metric definition and analysis,3,1,5
+Q191,Say you worked on YouTube Premium...,Business strategy without direct ML relevance,2,0,2
+Q192,Should Twitter add Facebook-style emoji reactions...,Product metrics without ML focus,2,0,2
+Q193,What metrics would you use to measure user engagement...,Engagement metrics analysis relevant to role,3,0,3
+Q194,Say you wanted to estimate the physical store sales...,Tests predictive modeling capabilities,4,0,4
+Q195,Assume that you are designing a system whose purpose is to recommend...,Directly tests recommendation system knowledge,4,0,4
+Q196,Assume that you are modeling the yearly revenue...,Tests feature engineering and modeling skills,4,0,4
+Q197,How would you build an algorithm to price products...,Tests pricing algorithm development skills,4,0,4
+Q198,Assume that you want to help a major hotel chain analyze...,Tests NLP and sentiment analysis knowledge,4,0,4
+Q199,Suppose you are to build out Facebook's friend recommendation product...,Tests recommendation system development,4,0,4
+Q200,Assume you are working on a loan approval model...,Tests ML model evaluation expertise,4,1,6
